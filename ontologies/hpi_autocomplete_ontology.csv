@@ -1,0 +1,940 @@
+index,uids,synonyms,common_name,ignore,umls_cuis,model_relevance_bucket,freq
+0,"[13338, 4723, 4724, 40309, 51486]","['hypertension', 'htn', 'high blood pressure', 'elevated blood pressure', 'malignant hypertension', 'essential hypertension', 'diastolic hypertension', 'systemic hypertension', 'blood pressure high']",hypertension,0,"['C0085580', 'C0020538', 'C0020540', 'C0221154', 'C0235222']",0,0.0275654456952622
+1,[2688],"['diabetes mellitus', 'diabetes', 'DM']",diabetes mellitus,0,['C0011849'],1,0.019882712705096704
+2,[2691],"['dmii', 'noninsulin-dependent diabetes mellitus', 'non-insulin-dependent diabetes mellitus', 'non-insulin dependent diabetes mellitus', 'type 2 diabetes', 'diabetes mellitus ii', 'type 2 diabetes mellitus', 'diabetes mellitus type 2', 'type ii diabetes mellitus', 'diabetes mellitus type ii', 'non-insulin-dependent diabetes', 'type ii diabetes', 'diabetes type 2', 'diabetes type ii', 't2dm', 'non-insulin dependent diabetes', 'aodm', 'niddm', 'adult onset diabetes mellitus', 'adult onset diabetes']",type 2 diabetes,0,['C0011860'],1,0.0037318040820778094
+3,"[2689, 84939]","['insulin-dependent diabetes mellitus', 'insulin-dependent diabetes', 'type 1 diabetes', 'type 1 diabetes mellitus', 'diabetes mellitus type 1', 'type i diabetes mellitus', 'diabetes mellitus type i', 'type i diabetes', 't1dm', 'insulin dependent diabetes mellitus', 'insulin dependent diabetes', 'diabetes type 1', 'brittle diabetes mellitus', 'iddm', 'brittle diabetes', 'iddm1', 'diabetes type i', 'juvenile onset diabetes', 'diabetes mellitus insulin dependent', 'labile diabetes', 'diabetes brittle']",type 1 diabetes,0,"['C0011854', 'C0342302']",1,0.002300968550164177
+4,[4986],"['insulin', 'regular insulin']",insulin,1,['C0021641'],1,0.011387331014474894
+5,"[2304, 307633, 2302, 52655]","['coronary artery disease', 'CAD', 'coronary disease', 'coronary heart disease', 'coronary arteriosclerosis', 'coronary stenosis', 'myocardial ischemia', 'cardiac ischemia']",coronary artery disease,0,"['C0010068', 'C1956346', 'C0010054', 'C0242231']",3,0.007914709862285547
+6,[13484],"['depressive symptoms', 'symptoms of depression', 'depression symptoms']",depressive symptoms,0,['C0086132'],4,0.0010732567908364056
+7,"[2632, 2627, 192635]","['depression', 'chronic depression', 'depressive disorder', 'depressions', 'depressive illness', 'depression chronic']",depression,0,"['C0011581', 'C0011570', 'C0581391']",4,0.017827187513614232
+8,"[198228, 245438]","['severe depression', 'major depression', 'major depressive disorder']",severe depression,0,"['C0588008', 'C1269683']",4,0.0013418440731906105
+9,[82279],"['anxiety/depression', 'anxiety depression', 'depression anxiety']",anxiety/depression,0,['C0338908'],9,0.0002074760591171933
+10,[38],"['abdominal cramping', 'crampy abdominal pain', 'abdominal cramps', 'abdominal cramp']",abdominal cramping,0,['C0000729'],13,0.0004180072527014792
+11,"[319697, 49485]","['chronic abdominal pain', 'recurrent abdominal pain', 'abdominal pain chronic', 'abdominal chronic pain']",chronic abdominal pain,0,"['C2585575', 'C0232491']",13,0.0009744342848896676
+12,"[176123, 60517, 205546, 42, 176124, 49486, 49487, 49489, 49492, 51510, 52155, 52156, 49482]","['abdomen pain', 'abdominal pain', 'epigastric pain', 'right upper quadrant pain', 'right lower quadrant pain', 'left lower quadrant pain', 'lower abdominal pain', 'epigastric abdominal pain', 'left lower quadrant abdominal pain', 'right lower quadrant abdominal pain', 'right upper quadrant abdominal pain', 'left upper quadrant pain', 'abdominal discomfort', 'left upper quadrant abdominal pain', 'upper abdominal pain', 'left sided abdominal pain', 'abdominal tenderness', 'right sided abdominal pain', 'abdomen discomfort', 'abdominal migraine', 'abdominal migraines', 'stomach pain', 'abdominal pains', 'abdomen tenderness', 'pain right lower quadrant', 'abdominal pain right upper quadrant', 'upper abdomen pain', 'abdominal pain left lower quadrant', 'abdominal pain right lower quadrant', 'pain; abdominal', 'lower abdomen pain']",abdominal pain,1,"['C0563276', 'C0270858', 'C0694551', 'C0000737', 'C0563277', 'C0232492', 'C0232493', 'C0232495', 'C0232498', 'C0235299', 'C0238551', 'C0238552', 'C0232487']",13,0.015445146959435024
+13,"[51540, 205541, 886, 49247]","['atrial fibrillation', 'afib', 'paroxysmal atrial fibrillation', 'a fib', 'chronic atrial fibrillation', 'fibrillation', 'af', 'intermittent atrial fibrillation', 'atrial fibrillation paroxysmal', 'a-fib']",atrial fibrillation,0,"['C0235480', 'C0694539', 'C0004238', 'C0232197']",6,0.005740008824900985
+14,[887],['atrial flutter'],atrial flutter,0,['C0004239'],6,0.00030895260645852867
+15,[16843],"['atrial fibrillation/flutter', 'fib/flutter']",atrial fibrillation/flutter,0,['C0155709'],6,5.318323463385771e-05
+16,"[89293, 862, 16953, 861, 308030, 55103]","['asthma', 'childhood asthma', 'exercise-induced asthma', 'mild intermittent asthma', 'asthma attack', 'exercise induced asthma', 'bronchial asthma', 'asthma attacks', 'asthmatic', 'allergic asthma', 'asthmas']",asthma,0,"['C0347950', 'C0004099', 'C0155877', 'C0004096', 'C1960045', 'C0264408']",5,0.010208168584709385
+17,[329],['albuterol'],albuterol,1,['C0001927'],5,0.005596963674237839
+18,[7065],"['pain', 'pains', 'ache', 'pain symptoms']",pain,0,['C0030193'],14,0.08570087408847865
+19,"[3684, 269134, 14375]","['chronic pain', 'fibromyalgia', 'chronic pain syndrome', 'chronic pains', 'myofascial pain syndrome', 'chronic pain syndromes', 'pain; chronic', 'fibromyalgias', 'fibromyositis']",chronic pain,0,"['C0016053', 'C1298685', 'C0150055']",15,0.004051022964413189
+20,[213685],"['uncontrolled pain', 'pain uncontrolled']",uncontrolled pain,0,['C0747149'],15,4.010077335438019e-05
+21,"[205643, 10252]","['coumadin', 'warfarin']",coumadin,1,"['C0699129', 'C0043031']",10,0.008701637402731196
+22,[669],"['antihypertensives', 'antihypertensive agents', 'antihypertensive', 'anti-hypertensives']",antihypertensives,0,['C0003364'],0,0.0006233669058191223
+23,"[55362, 4293]","['congestive heart failure', 'CHF', 'CHD', 'hf', 'dCHF', 'diastolic congestive heart failure', 'heart failure', 'chronic congestive heart failure', 'chronic heart failure', 'HFrEF', 'HFpEF']",congestive heart failure,0,"['C0264722', 'C0018802']",8,0.003836591780741021
+24,"[3953, 3380, 4317, 49478]","['gastroesophageal reflux disease', 'reflux', 'esophagitis', 'heartburn', 'acid reflux', 'gastroesophageal reflux', 'gerd', 'gastric reflux', 'esophageal reflux', 'acid reflux disease', 'heart burn']",gastroesophageal reflux disease,0,"['C0017168', 'C0014868', 'C0018834', 'C0232483']",12,0.009835527518675679
+25,"[212785, 5635]","['chronic obstructive pulmonary disease', 'COPD', 'COLD', 'mild chronic obstructive pulmonary disease', 'chronic obstructive lung disease', 'chronic obstructive airway disease']",chronic obstructive pulmonary disease,0,"['C0730604', 'C0024117']",11,0.0038342364256770045
+26,[212788],['severe chronic obstructive pulmonary disease'],severe chronic obstructive pulmonary disease,0,['C0730607'],11,0.00012504716577180954
+27,"[169760, 342, 13429, 334, 341]","['alcohol abuse', 'alcoholism', 'alcohol use', 'alcohol intoxication', 'alcohol dependence', 'chronic alcohol abuse', 'chronic alcoholism', 'drinking alcohol', 'alcohol intake', 'drunk', 'binge drinking', 'alcohol consumption', 'EtOH abuse', 'alcohol ingestion', 'ethanol abuse', 'alcohol binge', 'acute alcohol intoxication', 'drink alcohol', 'alcoholic intoxication', 'drinking binge', 'alcohol addiction', 'chronic alcohol intoxication', 'EtOHism']",alcohol abuse,0,"['C0556346', 'C0001973', 'C0085762', 'C0001948', 'C0001969']",18,0.01363975023507681
+28,[337],"['alcohol', 'etoh', 'ethanol', 'drinking alcohol']",alcohol,1,['C0001962'],18,0.009497525533094296
+29,"[216666, 303284]","['recurrent pulmonary embolism', 'chronic pulmonary embolism']",recurrent pulmonary embolism,0,"['C0856722', 'C1735914']",20,3.0832963211188685e-05
+30,[8037],"['pulmonary embolism', 'PEs', 'PE', 'pulmonary embolisms', 'pulmonary embolus', 'pulmonary emboli', 'pulm embolism', 'blood clot in lungs']",pulmonary embolism,0,['C0034065'],20,0.0029816405619791844
+31,[7104],"['pancreatitis', 'pancreatic inflammation']",pancreatitis,0,['C0030305'],31,0.0016886786402620555
+32,"[53697, 14180]","['chronic pancreatitis', 'recurrent pancreatitis', 'acute on chronic pancreatitis', 'pancreatitis chronic']",chronic pancreatitis,0,"['C0262417', 'C0149521']",31,0.0008484398567551563
+33,[194],"['acute pancreatitis', 'pancreatitis; acute']",acute pancreatitis,0,['C0001339'],31,0.00010863648538013616
+34,"[162218, 3283]","['grand mal seizures', 'grand mal', 'grand mal seizure', 'tonic clonic seizure', 'tonic-clonic seizure', 'tonic-clonic seizures', 'generalized tonic-clonic seizures', 'generalized tonic-clonic seizure', 'tonic clonic seizures', 'generalized tonic clonic seizures', 'grand mal epilepsy', 'tonic clonic seizure disorder']",grand mal seizures,0,"['C0494475', 'C0014549']",19,0.00022254691796882886
+35,"[51136, 14338, 8598, 213919]","['seizures', 'seizure', 'seizure d', 'complex partial seizures', 'partial seizures', 'partial complex seizures', 'complex partial seizure', 'generalized seizure', 'generalized seizures', 'partial seizure', 'focal seizures', 'fits', 'convulsion', 'generalized convulsions', 'fitted', 'fitting', 'partial complex seizure', 'convulsions', 'partial focal seizure', 'focal seizure']",seizures,0,"['C0234533', 'C0149958', 'C0036572', 'C0751495']",19,0.013067910988230607
+36,[9022],['status epilepticus'],status epilepticus,0,['C0038220'],19,7.029369442860815e-05
+37,"[14326, 81943]","['migraines', 'migraine', 'migraine headaches', 'migraine headache', 'complex migraine', 'complicated migraines', 'complicated migraine', 'migraine type headaches', 'migraine syndrome']",migraines,0,"['C0149931', 'C0338483']",16,0.005823786073681565
+38,"[704, 192630]","['anxiety', 'anxious', 'chronic anxiety', 'anxious behavior', 'feel anxious', 'feeling anxious', 'anxiety disorder', 'anxiety disorders']",anxiety,0,"['C0003467', 'C0581386', 'C0003469']",9,0.017255015444856806
+39,[6408],"['nausea', 'nauseated', 'nauseous', 'queasy', 'feeling sick', 'nauseas']",nausea,1,['C0027497'],43,0.012249732323710957
+40,[6409],"['n&v', 'n/v', 'nausea and vomiting', 'nausea/vomiting', 'nausea vomiting', 'vomiting and nausea', 'nausea with vomiting']",nausea and vomiting,1,['C0027498'],43,0.0023241636772076343
+41,"[49587, 10237]","['vomiting', 'emesis', 'vomit', 'vomited', 'chronic vomiting', 'vomiting disorder', 'vomits']",vomiting,1,"['C0232598', 'C0042963']",43,0.007680650719746584
+42,[93410],"['prostate cancer', 'prostate ca', 'prostatic cancer']",prostate cancer,0,['C0376358'],37,0.0015117965952915855
+43,[30344],['prostate surgery'],prostate surgery,0,['C0194790'],59,2.9237124816366577e-05
+44,"[30361, 7915]","['prostatectomy', 'radical prostatectomy', 'total prostatectomy']",prostatectomy,0,"['C0194810', 'C0033573']",59,0.0002051207040531777
+45,[1328],"['breast cancer', 'cancer of breast']",breast cancer,0,['C0006142'],37,0.0
+46,[303283],['recurrent deep vein thrombosis'],recurrent deep vein thrombosis,0,['C1735901'],20,4.131258646702586e-05
+47,"[10120, 14307, 322843, 61795]","['deep vein thrombosis', 'DVT', 'upper extremity deep vein thrombosis', 'splenic vein thrombosis', 'venous thrombosis', 'vein thrombosis', 'deep venous thrombosis', 'deep vein thromboses']",deep vein thrombosis,0,"['C0042487', 'C0149871', 'C2717899', 'C0272416']",20,0.002894253475546145
+48,"[9490, 13627, 68163, 9487]","['blood clots', 'clots', 'clot', 'thrombus', 'thrombosis', 'blood clot', 'thromboembolism', 'thromboembolic disease', 'thrombosed', 'thrombi', 'thrombotic', 'thromboses', 'thromboembolic events', 'thromboembolic event']",blood clots,0,"['C0040053', 'C0087086', 'C0302148', 'C0040038']",20,0.0017743674815583594
+49,"[1784, 121252, 121263]","['neck pain', 'thoracic back pain', 'spine pain', 'pain in neck', 'neck ache', 'pain neck', 'cervicalgia', 'cervical pain', 'neck pains']",neck pain,1,"['C0007859', 'C0423673', 'C0423684']",14,0.00267620392032636
+50,"[150640, 213485]","['chronic back pain', 'chronic low back pain', 'chronic lower back pain']",chronic back pain,0,"['C0457949', 'C0740418']",14,0.0016519487554956685
+51,"[83369, 16811, 83342, 6320, 83350, 90781, 218431]","['myocardial infarction', 'MI', 'AMI', 'NSTEMI', 'STEMI', 'acute myocardial infarction', 'ischemic cardiomyopathy', 'silent myocardial infarction', 'heart attack', 'inferior myocardial infarction', 'anterior myocardial infarction', 'heart attacks', 'acute coronary syndrome', 'myocardial infarctions', 'anterior wall myocardial infarction', 'inferior wall myocardial infarction']",myocardial infarction,0,"['C0340324', 'C0155626', 'C0340293', 'C0027051', 'C0340305', 'C0349782', 'C0948089']",22,0.003676828729460461
+52,[16813],"['prior myocardial infarction', 'previous myocardial infarction', 'old myocardial infarction', 'past myocardial infarction', 'past heart attack']",prior myocardial infarction,1,['C0155668'],22,6.356898504294065e-05
+53,[5229],"['nephropathy', 'renal disease', 'kidney disease', 'renal disorders', 'kidney disorders']",nephropathy,0,['C0022658'],24,0.0016009245963371586
+54,[292850],"['chronic kidney disease', 'CKD', 'chronic renal failure', 'chronic renal insufficiency', 'chronic renal disease']",chronic kidney disease,0,['C1561643'],24,0.0017557977256913385
+55,[8241],"['renal failure', 'renal insufficiency', 'kidney failure', 'ESRD']",renal failure,0,['C0035078'],24,0.0013347524063130856
+56,[5230],"['acute renal failure', 'acute kidney injury', 'acute renal insufficiency']",acute renal failure,0,['C0022660'],24,0.0
+57,[5231],"['end-stage renal disease', 'end stage renal disease', 'chronic kidney failure', 'end-stage kidney disease', 'end-stage renal failure', 'esrd']",end-stage renal disease,0,['C0022661'],24,0.0025763744147508038
+58,[2303],"['coronary artery bypass graft', 'CABG', 'coronary artery bypass grafting', 'coronary artery bypass graft surgery', 'coronary bypass', 'coronary artery bypass surgery', 'coronary artery bypass', 'coronary artery bypass surg']",coronary artery bypass graft,0,['C0010055'],3,0.001934642566548488
+59,[149],"['acquired immunodeficiency syndrome', 'AIDS']",acquired immunodeficiency syndrome,0,['C0001175'],28,0.000977881978534096
+60,[4561],"['human immunodeficiency virus', 'hiv', 'human immunodeficiency virus infection', 'human immunodeficiency virus disease']",human immunodeficiency virus,0,['C0019693'],28,0.005859338280915945
+61,[4770],"['hypoparathyroidism', 'hypoparathyroid']",hypoparathyroidism,0,['C0020626'],25,2.5925973494489684e-05
+62,[4793],"['hypothyroidism', 'hypothyroid']",hypothyroidism,0,['C0020676'],25,0.003250441191712376
+63,[9982],"['UTI', 'urinary tract infection', 'UTIs', 'urinary tract infections', 'urinary infection']",urinary tract infection,0,['C0042029'],29,0.005038258092042071
+64,"[53745, 53698]","['recurrent UTIs', 'frequent UTIs', 'chronic UTIs', 'recurrent urinary tract infection', 'chronic urinary tract infection', 'recurrent urinary tract infections', 'chronic urinary tract infections', 'frequent urinary tract infections']",chronic urinary tract infection,0,"['C0262655', 'C0262421']",29,0.0002808248880128941
+65,[1908],"['primary biliary cirrhosis', 'biliary cirrhosis']",primary biliary cirrhosis,0,['C0008312'],32,5.012810016676511e-05
+66,[5581],"['alcoholic cirrhosis', 'alcoholic liver cirrhosis', 'alcohol induced cirrhosis']",alcoholic cirrhosis,0,['C0023891'],32,0.0001803894758810148
+67,[298220],['decompensated cirrhosis'],decompensated cirrhosis,0,['C1619727'],32,1.4780706416213342e-05
+68,"[5580, 57990]","['cirrhosis', 'liver cirrhosis', 'cryptogenic cirrhosis', 'cirrhosis of the liver', 'hepatic cirrhosis']",cirrhosis,0,"['C0023890', 'C0267809']",32,0.0022076418727001424
+69,"[2369, 17046]","[""crohn's"", ""crohn's disease"", 'crohn disease', 'crohn', ""crohn's colitis"", ""crohn's ileitis"", ""crohns's"", 'crohn colitis']",crohn's,0,"['C0010346', 'C0156147']",58,7.001207588834542e-05
+70,[2154],"['uc', 'ulcerative colitis']",ulcerative colitis,0,['C0009324'],58,0.0008114539551339849
+71,"[14808, 53689, 176122, 1829, 166711]","['chest pain', 'cp', 'atypical chest pain', 'substernal chest pain', 'left sided chest pain', 'right sided chest pain', 'chest pains', 'thoracic pain', 'substernal pain', 'left side chest pain', 'chest pain substernal', 'retrosternal chest pain', 'chest pain atypical', 'atypical chest discomfort', 'retrosternal pain', 'right side chest pain']",chest pain,0,"['C0151826', 'C0262384', 'C0563275', 'C0008031', 'C0541828']",38,0.01343517570031384
+72,"[584, 586, 49325]","['angina', 'chest pain radiating', 'unstable angina', 'angina at rest', 'worsening angina', 'radiating chest pain', 'anginal pain', 'chest pain radiate', 'angina pectoris', 'ischemic chest pain']",angina,0,"['C0002962', 'C0002965', 'C0232289']",38,0.0011291282024454984
+73,[49324],"['exertional chest pain', 'chest pain on exertion']",exertional chest pain,0,['C0232288'],38,6.306548522853153e-05
+74,[1832],"['chest wall pain', 'musculoskeletal chest pain']",chest wall pain,0,['C0008035'],38,0.0001497101227826967
+75,[303461],['chronic chest pain'],chronic chest pain,0,['C1740831'],38,7.326348994410598e-05
+76,"[544, 192628]","['anemia', 'chronic anemia', 'anaemia', 'anemia chronic', 'anemias']",anemia,0,"['C0002871', 'C0581384']",39,0.0064577264756032786
+77,[121549],"['suicidal ideation', 'SI', 'SA', 'suicidal thoughts', 'suicidal ideations', 'thoughts of suicide', 'feeling suicidal', 'suicidal']",suicidal ideation,0,['C0424000'],4,0.007961740158509423
+78,"[2904, 311186]","['diverticulitis', 'sigmoid diverticulitis']",diverticulitis,0,"['C0012813', 'C1997972']",49,0.0008548573459150825
+79,[167196],['perforated diverticulitis'],perforated diverticulitis,0,['C0544794'],49,9.890784489833293e-06
+80,[286712],"['diverticulosis', 'diverticular disease']",diverticulosis,0,['C1510475'],49,0.0006652427293666736
+81,"[800, 54475]","['arthritis', 'chronic arthritis', 'inflammatory arthritis', 'inflammatory arthropathy', 'arthritides']",arthritis,0,"['C0003864', 'C0263680']",46,0.003691259546175136
+82,[52343],['knee arthritis'],knee arthritis,0,['C0240111'],46,0.00010966908669443284
+83,"[18971, 6814]","['DJD', 'osteoarthritis', 'degenerative joint disease', 'polyarthritis', 'inflammatory polyarthropathy', 'polyarticular arthritis', 'osteoarthritis arthritis']",osteoarthritis,0,"['C0162323', 'C0029408']",46,0.00438568819698722
+84,[803],['psoriatic arthritis'],psoriatic arthritis,0,['C0003872'],46,0.00023411034590991957
+85,[1761],['cerebral palsy'],cerebral palsy,0,['C0007789'],35,0.0001949483010230817
+86,"[4733, 52671, 4693, 4679]","['hyperlipidemia', 'hld', 'hypercholesterolemia', 'dyslipidemia', 'high cholesterol', 'hypertriglyceridemia', 'hypercholesteremia', 'elevated cholesterol', 'hyperlipemia', 'hypertriglyceridemia', 'high triglycerides', 'increased triglycerides', 'dyslipidemias', 'lipidemia', 'hypercholesterolemia']",hyperlipidemia,0,"['C0020557', 'C0242339', 'C0020473', 'C0020443']",36,0.009996545052544686
+87,"[52238, 2718, 312991]","['diarrhea', 'loose stools', 'loose stool', 'diarrhoea', 'intermittent diarrhea', 'watery stool', 'watery stools', 'liquid stool', 'loose bowel', 'loose bowel movement', 'diarrheas', 'diarrhea intermittent']",diarrhea,1,"['C0239181', 'C0011991', 'C2129214']",47,0.009370720384919635
+88,[101289],"['chronic diarrhea', 'recurrent diarrhea', 'diarrhea chronic']",chronic diarrhea,0,['C0401151'],47,0.00026111159019450326
+89,"[4436, 166575]","['hepatitis c', 'hep c', 'hepc', 'chronic hepatitis c', 'hepatitis c infection']",hepatitis c,0,"['C0019196', 'C0524910']",32,0.004293112502297218
+90,[4429],"['hep a', 'hepatitis a', 'hepatitis a infection']",hepatitis a,0,['C0019159'],32,0.0005368588105875088
+91,"[4430, 166574]","['hep b', 'hepatitis b', 'chronic hepatitis b', 'chronic hep b', 'hepatitis b virus infection', 'chronic hepatitis b infection', 'chronic viral hepatitis b', 'hepatitis b infection']",hep b,0,"['C0019163', 'C0524909']",32,0.0018268936062649367
+92,[1497],"['ca', 'cancer', 'malignancy', 'cancers', 'malignancies', 'malignant tumor']",cancer,0,['C0006826'],37,0.007529993334601186
+93,"[8537, 60157]","['paranoid schizophrenia', 'chronic paranoid schizophrenia']",paranoid schizophrenia,0,"['C0036349', 'C0270398']",9,0.00015240683365309128
+94,"[8532, 40502]","['schizophrenia', 'chronic schizophrenia']",schizophrenia,0,"['C0036341', 'C0221765']",9,0.0009368424767121737
+95,[8530],"['schizoaffective disorder', 'schizoaffective', 'schizoaffective disorders']",schizoaffective disorder,0,['C0036337'],9,0.000838173580878306
+96,[7386],"['personality disorder', 'unspecified personality disorder', 'character disorder']",personality disorder,0,['C0031212'],9,0.000336090393065664
+97,[1282],"['borderline personality disorder', 'borderline personality']",borderline personality disorder,0,['C0006012'],9,0.0005404345126593294
+98,[6236],"['dissociative identity disorder', 'multiple personality disorder', 'multiple personalities', 'multiple personality disorders']",dissociative identity disorder,0,['C0026773'],9,1.7136061480228863e-05
+99,[5225],"['kidney stones', 'nephrolithiasis', 'kidney stone', 'renal stones', 'renal stone', 'renal calculi', 'renal calculus', 'nephrolith']",kidney stones,0,['C0022650'],27,0.0011388739107176208
+100,"[3280, 3281, 3285]","['seizure disorder', 'epilepsy', 'temporal lobe epilepsy', 'epileptic', 'partial epilepsy', 'epileptic seizures', 'epileptic seizure', 'epileptics', 'seizure disorders', 'focal epilepsy', 'temporal lobe seizure', 'partial seizure disorder']",seizure disorder,0,"['C0014544', 'C0014547', 'C0014556']",19,0.004664925780500451
+101,[224698],"['refractory epilepsy', 'intractable epilepsy', 'drug resistant epilepsy']",refractory epilepsy,0,['C1096063'],19,0.000171044860681388
+102,[8016],"['psychosis', 'psychotic', 'psychotic disorder', 'psychoses', 'unspecified psychosis', 'atypical psychosis']",psychosis,0,['C0033975'],9,0.0019185732419631934
+103,[1152],['bipolar depression'],bipolar depression,0,['C0005587'],9,2.7829032115052948e-05
+104,[1151],"['bpd', 'bipolar disorder', 'manic depression', 'bpad', 'bipolar affective disorder', 'bi-polar disorder', 'manic depressive', 'bipolar disorders', 'bipolar mood disorder', 'manic depressive disorder', 'manic depressive psychosis']",bipolar disorder,0,['C0005586'],9,0.0020234974829489573
+105,[166591],"['mood disorder', 'mood disorders', 'affective disorder', 'disorder mood']",mood disorder,0,['C0525045'],9,0.0012307583598997044
+106,"[67176, 2947, 213700, 213502]","['polysubstance abuse', 'abuse', 'substance abuse', 'drug abuse', 'illicit drug use', 'recreational drug use', 'illegal drug use', 'drug and alcohol abuse', 'intravenous drug use', 'ivdu', 'drugs of abuse', 'medication abuse', 'multisubstance abuse']",polysubstance abuse,0,"['C0281875', 'C0013146', 'C0747752', 'C0740858']",18,0.0029705550321670244
+107,"[5787, 5788]",['marijuana abuse'],marijuana abuse,0,"['C0024808', 'C0024809']",18,0.0009230004987635024
+108,[6008],"['meth abuse', 'methamphetamine abuse', 'crank']",meth abuse,0,['C0025611'],18,0.002077969335751896
+109,"[13159, 2110, 2111]","['cocaine', 'cocaine abuse', 'crack cocaine', 'snow', 'coke', 'blow', 'cocain']",cocaine abuse,0,"['C0085163', 'C0009170', 'C0009171']",18,0.003298504089250548
+110,"[801, 4155]","['gout', 'gouty arthritis', 'gouty arthropathy']",gout,0,"['C0003868', 'C0018099']",46,0.002488381421761441
+111,"[16741, 10142, 213775]","['dizziness', 'vertigo', 'chronic vertigo', 'spinning', 'peripheral vertigo', 'head spinning', 'spinning sensation', 'dizzy spell']",dizziness,1,"['C0155501', 'C0042571', 'C0750248']",51,0.0015294702921668615
+112,[2911],"['lightheadedness', 'dizzy', 'dizzyness', 'dizziness']",dizziness,1,['C0012833'],51,0.005596690589592735
+113,[6656],"['obesity', 'obese']",obesity,0,['C0028754'],60,0.010225731340947588
+114,[6657],['morbid obesity'],morbid obesity,0,['C0028756'],60,0.0011577252851249044
+115,[3935],['gastric bypass'],gastric bypass,0,['C0017125'],73,0.0006713103288250612
+116,[93950],"['chemo', 'chemotherapy', 'cancer chemotherapy']",chemo,0,['C0392920'],37,0.0
+117,[132397],"['chemoradiation', 'chemoradiotherapy']",chemoradiation,0,['C0436307'],37,0.00021087254939066496
+118,[2250],"['constipation', 'constipated']",constipation,1,['C0009806'],70,0.006858034429744004
+119,[101287],"['chronic constipation', 'infrequent bowel movements']",chronic constipation,0,['C0401149'],70,0.0003800484870321277
+120,"[53992, 171665, 85493, 1710]","['cellulitis', 'lower extremity cellulitis', 'leg cellulitis', 'facial cellulitis', 'foot cellulitis', 'cellulitis of the leg']",cellulitis,0,"['C0263136', 'C0558382', 'C0343024', 'C0007642']",68,0.002550482576836952
+121,[213549],['recurrent cellulitis'],recurrent cellulitis,0,['C0742020'],68,0.00010136560670426218
+122,[299316],['mssa'],mssa,0,['C1635274'],66,0.0004546176629356335
+123,[9012],"['staphylococcus infection', 'staphylococcal infection']",staphylococcus infection,0,['C0038160'],66,3.735285911302876e-05
+124,[9016],"['staphylococcus', 'staph']",staphylococcus,0,['C0038170'],66,0.000384801866635956
+125,[85777],"['mrsa', 'mrsa infection', 'methicillin-resistant staphylococcus aureus']",mrsa,0,['C0343401'],66,0.0011543885321175491
+126,[403183],['mrsa bacteremia'],mrsa bacteremia,0,['C4040349'],66,8.433195196594703e-05
+127,"[14874, 7358, 138055]","['neuropathy', 'peripheral neuropathy', 'polyneuropathy', 'neuropathies', 'peripheral neuropathies']",neuropathy,0,"['C0152025', 'C0031117', 'C0442874']",80,0.004572751178882946
+128,[52941],['autonomic neuropathy'],autonomic neuropathy,0,['C0259749'],80,0.00010064022561570667
+129,[6234],['multiple sclerosis'],multiple sclerosis,0,['C0026769'],55,0.00047142090250464275
+130,[9267],"['syncope', 'passed out', 'fainting', 'pass out', 'fainted', 'falling out', 'faint', 'fainting episodes', 'blackout']",syncope,1,['C0039070'],56,0.002517814826166476
+131,[9560],['tobacco'],tobacco,1,['C0040329'],64,0.0017127868940875765
+132,"[9563, 147397]","['smoking', 'tobacco abuse', 'smoking tobacco', 'tobacco use disorder', 'tobacco smoking']",smoking,0,"['C0040336', 'C0453996']",64,0.006342297009676199
+133,"[81848, 1579]","['colon cancer', 'colon adenocarcinoma', 'colonic adenocarcinoma', 'cancer of colon', 'adenocarcinoma colon', 'adenocarcinoma of the colon', 'colorectal cancer']",colon cancer,0,"['C0338106', 'C0007102', 'C0346629']",37,0.0016306310853872962
+134,"[103818, 201547, 246030, 4799]","['TAH', 'hysterectomy', 'total abdominal hysterectomy', 'partial hysterectomy', 'total hysterectomy']",hysterectomy,0,"['C0404079', 'C0677962', 'C1270947', 'C0020699']",82,0.0019107305923116347
+135,[1918],['cholecystostomy'],cholecystostomy,0,['C0008339'],31,3.4604944871677315e-05
+136,"[19015, 1911]","['cholecystectomy', 'lap chole', 'laparoscopic cholecystectomy', 'gallbladder removal']",cholecystectomy,0,"['C0162522', 'C0008320']",31,0.0013672068096045747
+137,[52683],"['lung cancer', 'lung cancer nos']",lung cancer,0,['C0242379'],37,0.0012121374006617267
+138,[15749],"['metastatic lung cancer', 'lung cancer metastatic', 'metastases to lung', 'metastasis to the lung', 'cancer metastatic to lung', 'pulmonary metastases', 'lung metastases', 'metastasis to lung']",metastatic lung cancer,0,['C0153676'],37,9.428247372189666e-05
+139,"[7776, 9038]","['prednisone', 'steroids', 'steroid', 'pred']",prednisone,1,"['C0032952', 'C0038317']",61,0.012635165698588713
+140,[4869],"['immunosuppression', 'immunosuppressive therapy', 'immune suppression']",immunosuppression,0,['C0021079'],28,0.0004899309211055474
+141,[13151],['tacrolimus'],tacrolimus,1,['C0085149'],28,0.00043395710275454083
+142,"[109100, 5645]","['le', 'sle', 'lupus erythematosus', 'lupus', 'systemic lupus erythematosus', 'systemic lupus']",lupus erythematosus,0,"['C0409974', 'C0024141']",84,0.003945288003387274
+143,[5646],['lupus nephritis'],lupus nephritis,0,['C0024143'],84,0.00010882423107364466
+144,[5102],"['ibs', 'irritable bowel syndrome', 'irritable bowel', 'irritable bowel disease', 'inflammatory bowel disease']",irritable bowel syndrome,0,"['C0022104', 'C0021390']",62,0.0011374743519114664
+145,"[57426, 14871]","['gastroparesis', 'diabetic gastroparesis', 'delayed gastric emptying']",gastroparesis,0,"['C0267176', 'C0152020']",63,0.0014500282621272946
+146,"[8328, 4290]","['rhd', 'cardiac disease', 'heart disease', 'rheumatic heart disease', 'card', 'rheumatoid heart disease', 'cardiac diseases', 'cardiac dis', 'heart trouble']",cardiac disease,0,"['C0035439', 'C0018799']",8,0.00190998814343276
+147,[4784],"['orthostatic hypotension', 'postural hypotension']",orthostatic hypotension,0,['C0020651'],78,0.00036508856881756527
+148,[16896],"['chronic hypotension', 'hypotension']",chronic hypotension,0,['C0155800'],78,0.0001279998934969884
+149,[1759],"['TIA', 'transient ischemic attack', 'TIAs', 'transient ischemic attacks']",transient ischemic attack,0,['C0007787'],40,0.0008094484897715079
+150,[9942],"['upper gastrointestinal bleed', 'ugi bleed', 'upper gastrointestinal bleeding']",upper gastrointestinal bleed,0,['C0041909'],72,0.0001908947008223304
+151,[3957],"['gastrointestinal bleed', 'gastrointestinal bleeding']",gastrointestinal bleed,0,['C0017181'],72,0.0009614627642472633
+152,[5445],['acute lymphocytic lekemia'],acute lymphocytic leukemia,1,['C0023449'],37,1.216080060225405e-05
+153,[5439],"['CLL', 'chronic lymphocytic leukemia', 'chronic lymphoid leukemia', 'lymphocytic lymphoma', 'small cell lymphoma']",chronic lymphocytic leukemia,0,['C0023434'],37,0.0009615310354085392
+154,[9084],"['PTSD', 'posttraumatic stress disorder', 'post-traumatic stress disorder', 'post traumatic stress disorder']",ptsd,0,['C0038436'],9,0.002355312394539724
+155,[6842],['osteoporosis'],osteoporosis,0,['C0029456'],65,0.003153607083337796
+156,[7365],"['peritoneal dialysis', 'PD']",peritoneal dialysis,0,['C0031139'],75,0.00022933989851577216
+157,"[2709, 4375]","['dialysis', 'hemodialysis']",dialysis,0,"['C0011946', 'C0019004']",75,0.0041870703210455645
+158,"[17531, 8942, 17527]","['spinal stenosis', 'lumbar spinal stenosis', 'cervical spinal stenosis', 'cervical spine stenosis', 'spinal stenoses']",spinal stenosis,0,"['C0158288', 'C0037944', 'C0158280']",74,0.00159698193677348
+159,[5238],"['renal transplant', 'kidney transplant', 'renal transplants', 'kidney transplants', 'renal transplantation', 'renal graft']",renal transplant,0,['C0022671'],67,0.0019043472387323464
+160,[720],"['AS', 'aortic stenosis', 'aortic valve stenosis']",aortic stenosis,0,['C0003507'],93,0.0006117096050312774
+161,[718],"['AI', 'aortic insufficiency', 'aortic regurgitation', 'aortic valve insufficiency']",aortic insufficiency,0,['C0003504'],3,0.00043924811775341633
+162,"[6134, 6135]","['mitral regurgitation', 'mitral valve prolapse', 'mitral prolapse', 'mitral insufficiency', 'mitral valve insufficiency', 'mitral valve regurgitation']",mitral regurgitation,0,"['C0026266', 'C0026267']",3,0.000999600741714964
+163,[6137],"['mitral stenosis', 'mitral valve stenosis']",mitral stenosis,0,['C0026269'],3,6.059918952744281e-05
+164,[9766],"['tricuspid regurgitation', 'tricuspid insufficiency', 'tricuspid valve regurgitation']",tricuspid regurgitation,0,['C0040961'],3,0.0002197478003565205
+165,[4310],"['valvular heart disease', 'cardiac valvular disease']",valvular heart disease,0,['C0018824'],8,8.388818941765423e-05
+166,[9150],"['suicide attempts', 'suicide attempt', 'attempted suicide']",suicide attempts,0,['C0038663'],4,0.0012163190092898705
+167,"[7632, 7629]","['pneumonia', 'pna', 'aspiration pneumonia', 'pneumonias', 'pneumonitis', 'aspiration pneumonias', 'aspiration pneumonitis', 'lung inflammation']",pneumonia,0,"['C0032290', 'C0032285']",79,0.004124755818591065
+168,"[217424, 7826, 1606]","['cardiomyopathy', 'dilated cardiomyopathy', 'idiopathic cardiomyopathy', 'cardiomyopathies', 'idiopathic cardiomegaly', 'cardiomyopathy congestive']",cardiomyopathy,0,"['C0878544', 'C0033141', 'C0007193']",8,0.0011236067722773173
+169,[13346],"['chills', 'shaking chills', 'chill']",chills,1,['C0085593'],71,0.004389067619470372
+170,"[13416, 3947, 3950]","['gastritis', 'gastroenteritis', 'chronic gastritis', 'gastritis nos']",gastritis,0,"['C0085695', 'C0017152', 'C0017160']",58,0.001975784475112324
+171,[1923],"['gallstones', 'cholelithiasis', 'gallstone', 'gall stones', 'biliary stones', 'gallbladder stones', 'gallstone disease', 'gallbladder calculus', 'gallbladder stone']",gallstones,0,['C0008350'],31,0.0008012559504184106
+172,"[19608, 4484, 4454]","['herniation', 'hernia', 'ventral hernia', 'hernias', 'herniations', 'abdominal hernia', 'abdominal wall hernia', 'abdomen hernia', 'internal hernia', 'abdominal hernias', 'ventral hernias']",herniation,0,"['C0178282', 'C0019326', 'C0019270']",111,0.0022279952126554935
+173,[4464],"['inguinal hernia', 'inguinal hernias']",inguinal hernia,0,['C0019294'],111,0.00015665671344251058
+174,[8227],['rehab'],rehab,0,['C0034991'],18,0.005400556077142487
+175,"[78210, 9903]","['ulcers', 'ulcer', 'chronic ulcer', 'chronic ulcers', 'ulcerative', 'ulcerations', 'ulceration', 'ulcerated', 'ulcerative lesion']",ulcers,0,"['C0333297', 'C0041582']",81,0.003753676455371547
+176,"[27819, 5804, 5803, 5799]","['mastectomy', 'lumpectomy', 'bilateral mastectomy', 'partial mastectomy', 'segmentectomy', 'total mastectomy', 'bilateral mastectomies', 'lumpectomies', 'mastectomies', 'unilateral mastectomy']",mastectomy,0,"['C0191877', 'C0024886', 'C0024885', 'C0024881']",102,0.0014936450002873787
+177,[13531],"['TKR', 'total knee replacement', 'knee replacement', 'knee replacements', 'knee arthroplasty', 'total knee arthroplasty', 'total knee replacements']",total knee replacement,0,['C0086511'],98,0.0015107042567111724
+178,[93898],"['hip replacement', 'hip replacements']",hip replacement,0,['C0392806'],98,0.0002906388674462921
+179,"[5384, 7066, 177581, 177582]","['leg pain', 'extremity pain', 'left leg pain', 'right leg pain', 'lower leg pain', 'left lower leg pain', 'pain in left leg', 'limb pain', 'pain in right leg']",leg pain,0,"['C0023222', 'C0030196', 'C0564822', 'C0564823']",14,0.0024335682131521237
+180,"[101016, 2153, 52011]","['colitis', 'collagenous colitis', 'lymphocytic colitis']",colitis,0,"['C0400822', 'C0009319', 'C0238067']",57,0.0014951213641499685
+181,[19017],"['ischemic colitis', 'ischaemic colitis', 'colonic ischemia']",ischemic colitis,0,['C0162529'],57,0.00012295636145773776
+182,[739],"['appendectomy', 'appy', 'appendicectomy']",appendectomy,0,['C0003611'],137,0.000938788204808534
+183,"[1592, 14275, 14324, 14867]","['nsclc', 'small cell lung cancer', 'non-small cell lung cancer', 'squamous cell lung cancer', 'sclc', 'nonsmall cell lung cancer', 'lung adenocarcinoma', 'adenocarcinoma of the lung', 'small cell carcinoma', 'squamous cell carcinoma of the lung', 'small cell lung carcinoma', 'non small cell lung cancer', 'non-small cell lung carcinoma', 'adenocarcinoma of lung', 'adenocarcinoma lung', 'pulmonary adenocarcinoma', 'small cell cancer of the lung']",nsclc,0,"['C0007131', 'C0149782', 'C0149925', 'C0152013']",37,0.0006089872924754043
+184,[1596],"['squamous cell carcinoma', 'squamous cell cancer', 'squamous carcinoma', 'squamous cell carcinomas', 'squamous carcinomas']",squamous cell carcinoma,0,['C0007137'],37,0.0004121956700978757
+185,"[52744, 13001, 13002, 5678, 5679, 13008, 5681, 79286, 1405]","['lymphoma', 'b cell lymphoma', ""non-hodgkin's lymphoma"", 'follicular lymphoma', 'mantle cell lymphoma', 'b-cell lymphoma', 'dlbcl', 'marginal zone lymphoma', 'non-hodgkins lymphoma', ""burkitt's lymphoma"", 't-cell lymphoma', 'diffuse large b cell lymphoma', ""nonhodgkin's lymphoma"", 't cell lymphoma', 'non-hodgkin lymphoma', 'diffuse large b-cell lymphoma', 'non hodgkins lymphoma', 'burkitts lymphoma', 'malt lymphoma', ""non hodgkin's lymphoma"", 'nonhodgkins lymphoma', ""b-cell non-hodgkin's lymphoma"", 'burkitt lymphoma', 'marginal zone b-cell lymphoma', 'maltoma']",lymphoma,0,"['C0242647', 'C0079731', 'C0079744', 'C0024299', 'C0024301', 'C0079772', 'C0024305', 'C0334634', 'C0006413']",37,0.0021060629186168927
+186,"[55632, 4409, 55627]","['hemorrhoids', 'internal hemorrhoids', 'hemorrhoid', 'external hemorrhoids', 'internal hemorrhoid', 'external hemorrhoid']",hemorrhoids,0,"['C0265040', 'C0019112', 'C0265034']",88,0.0016886701063668964
+187,"[52700, 7190]","[""parkinson's"", ""parkinson's disease"", 'parkinsons', 'parkinsonism', 'parkinsons disease', 'parkinson disease', ""idiopathic parkinson's disease"", ""parkinson's syndrome"", 'parkinsonian syndrome']",parkinson's,0,"['C0242422', 'C0030567']",33,0.00021675240315554428
+188,[8672],"['STD', 'vd', 'STDs', 'STIs', 'sexually transmitted disease', 'sexually transmitted diseases', 'sexually transmitted infections', 'venereal disease', 'sexually transmitted infection', 'venereal diseases']",stds,0,['C0036916'],85,0.0010778053569564067
+189,[3036],"['eating disorder', 'eating disorders']",eating disorder,0,['C0013473'],9,0.0008974926861318273
+190,"[617, 618]","['anorexia', 'anorexia nervosa', 'loss of appetite']",anorexia,0,"['C0003123', 'C0003125']",9,0.0010769263657549807
+191,[1392],"['bulimia', 'binge eating']",bulimia,0,['C0006370'],9,0.0002477560442699225
+192,"[224944, 322249, 224946, 224945]","['diastolic heart failure', 'systolic heart failure', 'chronic systolic congestive heart failure', 'chronic diastolic heart failure', 'chronic diastolic congestive heart failure', 'chronic systolic heart failure']",diastolic heart failure,0,"['C1135191', 'C2711480', 'C1135196', 'C1135194']",8,0.0005022111962400341
+193,"[216667, 19133, 19134, 711]","['aaa', 'abdominal aortic aneurysm', 'aortic aneurysm', 'ascending aortic aneurysm', 'thoracic aortic aneurysm', 'thoracic aneurysm', 'abdominal aneurysm', 'aneurysm thoracic', 'aortic aneurysms']",abdominal aortic aneurysm,0,"['C0856747', 'C0162871', 'C0162872', 'C0003486']",94,0.0007052496298742997
+194,[3200],['endometriosis'],endometriosis,0,['C0014175'],87,0.0006176833316429109
+195,[104191],['chronic pelvic pain'],chronic pelvic pain,0,['C0404484'],115,0.00010437807169555739
+196,"[49328, 134697, 51596]","['chest pressure', 'chest tightness', 'chest discomfort', 'discomfort in chest', 'tightness in chest']",chest pressure,0,"['C0232292', 'C0438716', 'C0235710']",38,0.002124922826919336
+197,"[3827, 3828]","['fracture', 'fractures', 'fractured', 'bone fractures', 'bone fracture', 'broken bones', 'broken bone']",fracture,0,"['C0016655', 'C0016658']",92,0.003678049076468266
+198,[3831],"['pathologic fractures', 'pathologic fracture', 'pathologic fx', 'pathological fracture']",pathologic fractures,0,['C0016663'],92,5.751845337487178e-05
+199,[3710],"['fistula', 'sinus', 'fistulas', 'sinuses']",fistula,0,['C0016169'],90,0.007581538061364424
+200,"[17577, 51532, 78161, 3062, 51640, 186493, 192638]","['edema', 'leg swelling', 'lower extremity swelling', 'leg edema', 'pedal edema', 'ankle swelling', 'foot swelling', 'extremity swelling', 'pitting edema', 'edematous', 'feet swelling', 'foot edema', 'swollen legs', 'swelling of legs', 'swollen foot', 'edema of legs', 'interstitial edema', 'ankle edema', 'hydrops', 'lower extremity swollen']",edema,0,"['C0158369', 'C0235439', 'C0333243', 'C0013604', 'C0235886', 'C0574002', 'C0581394']",41,0.01353475772292977
+201,"[2505, 13215]","['sudden death', 'sudden cardiac death', 'cardiac sudden death']",sudden death,0,"['C0011071', 'C0085298']",117,9.121027146448509e-05
+202,[9681],"['transplant', 'transplantation']",transplant,0,['C0040732'],67,0.005325893028392228
+203,"[3024, 52578, 121310]","['dysuria', 'difficulty urinating', 'pain with urination', 'burning on urination', 'burning with urination', 'difficulty voiding', 'painful urination', 'difficulty with urination', 'urinary difficulty']",dysuria,0,"['C0013428', 'C0241705', 'C0423736']",29,0.0018120190270019692
+204,[6232],"['mm', 'multiple myeloma', 'myeloma', 'myeloma multiple']",multiple myeloma,0,['C0026764'],37,0.0009885834830640797
+205,"[1179, 1173]","['bladder cancer', 'bladder tumor', 'cancer of bladder', 'bladder ca']",bladder cancer,0,"['C0005695', 'C0005684']",37,0.0003257729138178569
+206,"[316633, 315986, 315964, 103263]","['chronic kidney disease stage 3', 'stage 4 chronic kidney disease', 'chronic kidney disease stage 4', 'chronic kidney disease stage 5', 'stage 3 chronic kidney disease', 'stage 5 chronic kidney disease', 'chronic kidney insufficiency', 'chronic renal impairment']",end-stage chronic kidney disease,0,"['C2317473', 'C2316810', 'C2316787', 'C0403447']",24,0.0006551215297075345
+207,[4364],"['hematuria', 'blood in urine']",hematuria,1,['C0018965'],29,0.0015120696799366888
+208,"[211572, 4415]","['lovenox', 'heparin']",lovenox,1,"['C0728963', 'C0019134']",20,0.003520948600477463
+209,"[163468, 8780, 734]","['sleep apnea', 'obstructive sleep apnea', 'apnea', 'sleep-disordered breathing', 'respiratory arrest', 'sleep disordered breathing', 'apneic', 'osahs']",sleep apnea,0,"['C0520679', 'C0037315', 'C0003578']",101,0.0055867656695222645
+210,"[52473, 52474]","['left shoulder pain', 'right shoulder pain', 'right shoulder joint pain']",left shoulder pain,0,"['C0241039', 'C0241040']",14,0.000972667768591656
+211,[8699],"['shoulder pain', 'pain in shoulder']",shoulder pain,0,['C0037011'],14,0.001603587171626915
+212,"[195985, 8550]","['sciatica', 'chronic sciatica', 'sciatia']",sciatica,0,"['C0585052', 'C0036396']",14,0.0008695185777990633
+213,"[336, 51738]","['dts', 'delirium tremens', 'alcohol withdrawal', 'delerium tremens', 'alcohol withdrawal delirium', 'alcohol withdrawal syndrome']",delirium tremens,0,"['C0001957', 'C0236663']",18,0.0006146623327564563
+214,[197013],"['alcohol withdrawal seizures', 'alcohol withdrawal seizure', 'alcoholic seizures']",alcohol withdrawal seizures,0,['C0586323'],18,3.114871733208932e-05
+215,"[39857, 5634, 213658]","['ild', 'pulmonary disease', 'lung disease', 'interstitial lung disease', 'chronic lung disease']",pulmonary disease,0,"['C0206062', 'C0024115', 'C0746102']",11,0.0046176992046879075
+216,[14849],"['DVTs', 'deep venous thrombophlebitis']",dvts,0,['C0151950'],21,0.0002469879937055696
+217,[5641],['lupus'],lupus,1,['C0024131'],84,0.0
+218,"[8497, 8500]","['sarcoidosis', 'sarcoid', 'pulmonary sarcoidosis', 'lung sarcoid', 'pulm sarcoidosis']",sarcoidosis,0,"['C0036202', 'C0036205']",97,0.0009752706066152963
+219,[217560],"['highly active antiretroviral therapy', 'haart']",highly active antiretroviral therapy,0,['C0887947'],28,0.0004571948992737954
+220,"[320550, 4251, 1998, 8334, 239095]","['seasonal allergies', 'allergic rhinitis', 'rhinorrhea', 'chronic rhinitis', 'runny nose', 'rhinitis', 'seasonal allergy', 'hayfever', 'hay fever', 'nasal drip', 'running nose', 'allergic rhinosinusitis']",seasonal allergies,0,"['C2607914', 'C0018621', 'C0008711', 'C0035455', 'C1260880']",135,0.002880198150218487
+221,[4038],['glaucoma'],glaucoma,0,['C0017601'],95,0.0007833945078496263
+222,"[312171, 7011]","['ovarian cysts', 'ovarian cyst', 'left ovarian cyst']",ovarian cysts,0,"['C2016031', 'C0029927']",96,0.0005288881525085577
+223,[5890],"['melanoma', 'malignant melanoma', 'cutaneous melanoma', 'malignant melanomas', 'melanomas']",melanoma,0,['C0025202'],37,0.0011699287552029561
+224,[33595],"['abdomen surgeries', 'abdominal surgery', 'abdomen surgery', 'abdominal operations']",abdomen surgeries,0,['C0198482'],99,0.00011167455205690982
+225,[10076],"['venous stasis', 'venous stasis ulcers', 'venous stasis ulcer', 'stasis ulcers', 'venous ulcer', 'venous ulcers', 'stasis ulcer']",venous stasis,0,['C0042344'],21,0.0006020407018155902
+226,"[5010, 13131, 301578]","['PAD', 'peripheral arterial disease', 'peripheral vascular disease', 'claudication', 'peripheral artery disease', 'intermittent claudication']",peripheral arterial disease,0,"['C0021775', 'C0085096', 'C1704436']",2,0.00231167858858932
+227,"[6836, 1997]","['osteomyelitis', 'chronic osteomyelitis']",osteomyelitis,0,"['C0029443', 'C0008707']",86,0.0008804078280225553
+228,"[29720, 29722, 6467]","['nephrectomy', 'partial nephrectomy', 'bilateral nephrectomy', 'bilateral total nephrectomy', 'nephrectomies']",nephrectomy,0,"['C0194084', 'C0194086', 'C0027695']",103,0.0005519382033343038
+229,[578],"['aneurysm', 'aneurysms', 'dilatation']",aneurysm,0,['C0002940'],94,0.0010622565999758406
+230,[19131],"['aneurysm rupture', 'ruptured aneurysm']",aneurysm rupture,0,['C0162869'],94,2.092511093103644e-05
+231,[164994],"['stent placement', 'placement of stent']",stent placement,0,['C0522776'],100,0.0003522535904977125
+232,"[13352, 84263, 213647, 5583]","['liver disease', 'liver failure', 'end-stage liver disease', 'chronic liver disease', 'end stage liver disease', 'chronic hepatitis', 'liver disorders', 'hepatopathy', 'hepatic failure', 'chronic liver failure', 'liver diseases', 'disease of liver', 'hepatic diseases', 'hepatic disease']",liver disease,0,"['C0085605', 'C0341439', 'C0745744', 'C0023895']",32,0.007830608325488906
+233,[101134],"['nafld', 'non-alcoholic fatty liver disease', 'nonalcoholic fatty liver', 'nonalcoholic fatty liver disease', 'non-alcoholic fatty liver']",nafld,0,['C0400966'],32,4.6799881054569264e-05
+234,"[139356, 5605, 4830]","['ileostomy', 'loop ileostomy', 'diverting colostomy']",ileostomy,0,"['C0444911', 'C0023985', 'C0020883']",89,0.0008115478279807391
+235,[201349],['plavix'],plavix,1,['C0633084'],10,0.0015589805016283313
+236,"[1988, 1364]","['chronic bronchitis', 'bronchitis']",chronic bronchitis,0,"['C0008677', 'C0006277']",79,0.0012046787762923445
+237,"[1211, 1212]","['coagulopathy', 'clotting', 'clotting disorder', 'clotting disorders', 'bleeding disorders', 'coagulation', 'bleeding disorder', 'bleeding diathesis', 'coagulopathies', 'coagulation disorders']",coagulopathy,0,"['C0005778', 'C0005779']",45,0.0002816612097385227
+238,"[13585, 7111]","['panic attacks', 'panic disorder', 'panic attack', 'panic disorders']",panic attacks,0,"['C0086769', 'C0030319']",9,0.0011596710132212652
+239,"[5392, 10009]","['fibroids', 'uterine fibroids', 'fibroid uterus', 'fibroid', 'uterine fibroid', 'uterine fibroma', 'fibroid tumors', 'uterine leiomyoma', 'leiomyoma', 'fibroid tumor']",fibroids,0,"['C0023267', 'C0042133']",87,0.0015898988037911144
+240,"[88491, 51659, 67149]","['pancreatic cancer', 'metastatic pancreatic cancer', 'pancreatic adenocarcinoma', 'pancreatic cancer metastatic', 'adenocarcinoma of the pancreas', 'pancreatic carcinoma']",pancreatic cancer,0,"['C0346976', 'C0235974', 'C0281361']",37,0.00046987626748077753
+241,[4354],"['hematoma', 'hematomas', 'haematoma']",hematoma,0,['C0018944'],44,0.0008668986719851039
+242,"[4355, 52039]","['subdural hematoma', 'subdural hematomas', 'subdural hemorrhage', 'epidural hematoma', 'subdural hemorrhages', 'epidural hematomas', 'epidural bleeding']",subdural hematoma,0,"['C0018946', 'C0238154']",44,0.000194880029861806
+243,[5589],"['liver transplant', 'liver graft', 'liver transplantation', 'liver transplants']",liver transplant,0,['C0023911'],67,0.0010086808061646466
+244,"[9979, 9980]","['urinary incontinence', 'bladder incontinence', 'stress incontinence', 'incontinent of urine', 'urinary stress incontinence', 'stress urinary incontinence', 'loss of bladder control', 'involuntary urination', 'incontinence of urine', 'urine incontinence']",urinary incontinence,0,"['C0042024', 'C0042025']",29,0.0012154485519836036
+245,"[13027, 7612]","['pleural effusion', 'pleural effusions', 'malignant pleural effusion', 'malignant pleural effusions', 'malignant effusion']",pleural effusion,0,"['C0080032', 'C0032227']",106,0.0009177948227162221
+246,"[58161, 4769]","['hyponatremia', 'chronic hyponatremia']",hyponatremia,0,"['C0268007', 'C0020625']",113,0.0006163691117883513
+247,[967],"['bacteremia', 'bacteremias']",bacteremia,0,['C0004610'],66,0.0009712596758903424
+248,[6275],['myasthenia'],myasthenia,0,['C0026896'],104,0.0
+249,[240510],"['attention deficit-hyperactivity disorder', 'attention deficit/hyperactivity disorder', 'hyperactivity disorder', 'attention deficit disorder', 'adhd', 'attention deficit', 'attention deficit hyperactivity disorder', 'mbd']",attention deficit-hyperactivity disorder,0,['C1263846'],105,0.0005345973283702475
+250,[3184],['endocarditis'],endocarditis,0,['C0014118'],108,0.00037181327820323283
+251,[330618],"['mva', 'motor vehicle accident']",motor vehicle accident,0,['C2939181'],48,0.0014039452282661213
+252,[1700],"['celiac disease', 'celiac', 'celiac sprue', 'gluten intolerance', 'sprue', 'gluten sensitive enteropathy', 'coeliac disease']",celiac disease,0,['C0007570'],109,0.0008233928744620926
+253,[2530],"['dysphagia', 'difficulty swallowing', 'swallowing difficulties', 'poor swallowing', 'difficulty in swallowing', 'difficult swallowing', 'swallowing difficulty']",dysphagia,0,['C0011168'],110,0.0014545256248763385
+254,[8962],['splenectomy'],splenectomy,0,['C0037995'],137,0.000395904464238435
+255,[4485],"['hernia repair', 'hernia repairs', 'repair of hernia', 'herniorrhaphy']",hernia repair,0,['C0019328'],111,0.0005739300511602747
+256,[1226],"['transfusion', 'transfusions', 'blood transfusion', 'blood transfusions']",transfusion,0,['C0005841'],112,0.0018242737004509784
+257,"[167584, 9306, 9302]","['avnrt', 'atrial tachycardia', 'sinus tachycardia', 'sinus tach', 'sinus tachy', 'av nodal reentrant tachycardia', 'atrial tachycardias']",avnrt,0,"['C0546959', 'C0039239', 'C0039232']",7,0.0005004446799420225
+258,[10125],"['vt', 'ventricular tachycardia', 'v tach', 'v.tach', 'ventricular tachyarrhythmia', 'tachycardia']",ventricular tachycardia,0,['C0042514'],7,0.00048685018495297626
+259,"[9851, 297630]","['tb', 'tuberculosis', 'latent tuberculosis', 'ltbi', 'active tuberculosis', 'latent tuberculosis infection']",tuberculosis,0,"['C0041296', 'C1609538']",120,0.0010312188232808244
+260,[855],"['assault', 'attacked', 'assaults']",assault,0,['C0004063'],17,0.0006270962180038135
+261,"[10315, 116639]","['stabbing', 'stab wound', 'stab wounds', 'stab', 'stabbed', 'knife wound']",stabbing,0,"['C0043255', 'C0418391']",48,0.0004689034034325972
+262,"[51554, 4292]","['HF', 'right heart failure', 'right sided heart failure', 'right ventricular failure']",right heart failure,0,"['C0235527', 'C0018801']",8,0.0018659873799904995
+263,[225031],['ovarian cancer'],ovarian cancer,0,['C1140680'],37,0.0005329161510238306
+264,"[164179, 13542]","['cataracts', 'cataract', 'bilateral cataract', 'bilateral cataracts']",cataracts,0,"['C0521707', 'C0086543']",95,0.001168375586283931
+265,[1656],"['cataract surgery', 'cataract surgeries', 'cataract extraction', 'cataracts surgery']",cataract surgery,0,['C0007389'],95,6.433703560729353e-05
+266,[7665],"['polycystic ovarian syndrome', 'polycystic ovary syndrome', 'pcos', 'polycystic ovaries', 'polycystic ovarian disease']",polycystic ovarian syndrome,0,['C0032460'],114,0.00023968297944905768
+267,[2466],"['cyst', 'cysts']",cyst,0,['C0010709'],96,0.002526203645108241
+268,[4257],"['head trauma', 'head injury', 'head injuries', 'head inj', 'head traumas']",head trauma,0,['C0018674'],50,0.001329999026709257
+269,"[4225, 50507, 50508]","['hallucinations', 'auditory hallucinations', 'visual hallucinations', 'hallucinating', 'hallucination', 'auditory hallucination', 'hallucinate', 'hallucinations auditory']",hallucinations,0,"['C0018524', 'C0233762', 'C0233763']",9,0.0015903681680248859
+270,[18969],"['iron deficiency anemia', 'iron def anemia', 'iron deficiency', 'iron-deficiency anemia', 'fe deficiency anemia', 'iron defic anemia']",iron deficiency anemia,0,['C0162316'],39,0.0007224624964109638
+271,[1582],"['rectal cancer', 'rectal carcinoma']",rectal cancer,0,['C0007113'],37,0.0002854929286651277
+272,[88490],"['metastatic rectal cancer', 'rectal cancer metastatic']",metastatic rectal cancer,0,['C0346975'],37,2.577236338161911e-05
+273,[6006],['methadone'],methadone,1,['C0025605'],18,0.001686289149617402
+274,"[372612, 57911]","['hiatal hernia', 'paraesophageal hernia', 'hiatal hernias']",hiatal hernia,0,"['C3489393', 'C0267725']",111,0.0005277872800329851
+275,"[82081, 66730]","['altered mental status', 'AMS', 'cognitive impairment', 'impaired cognition', 'cognitive decline', 'cognitive deficits', 'cognitive dysfunction', 'cognitive impairments', 'cognitive deficit', 'cognitive defects']",altered mental status,0,"['C0338656', 'C0278061']",9,0.0009103788678226368
+276,[2174],"['colostomy', 'colostomies']",colostomy,0,['C0009410'],89,0.0005553858969787323
+277,[216530],"['artery disease', 'arterial disease']",artery disease,0,['C0852949'],2,0.0010662333951201566
+278,[1797],"['c-section', 'c section', 'cesarean section', 'c sections', 'cesarian section', 'cesarean sections']",c-section,0,['C0007876'],118,0.0005544044990353925
+279,"[13356, 126007]","['bradycardia', 'sinus bradycardia', 'bradyarrhythmia', 'low heart rate', 'bradycardias', 'low pulse rate']",bradycardia,0,"['C0085610', 'C0428977']",7,0.0008376359454832588
+280,[34468],"['continuous positive airway pressure', 'cpap']",continuous positive airway pressure,0,['C0199451'],101,0.0038393055594017353
+281,[48710],"['myalgias', 'myalgia', 'muscle aches', 'muscle pain', 'muscular pain', 'muscle ache', 'muscle soreness', 'muscle pains']",myalgias,0,['C0231528'],83,0.0014367836568397866
+282,"[124316, 3548]","['facial droop', ""bell's palsy"", 'facial weakness', 'facial paralysis', 'facial palsy', 'facial nerve palsy', 'facial nerve paralysis', 'facial paresis']",facial droop,0,"['C0427055', 'C0015469']",34,0.00047852110327732726
+283,[5018],"['herniated disc', 'herniated discs', 'herniated disk', 'herniated disks', 'slipped discs', 'slipped disc', 'slipped disk']",herniated disc,0,['C0021818'],86,0.0002132535061401589
+284,[5919],"['meningioma', 'meningiomas', 'mengioma', 'menigioma']",meningioma,0,['C0025286'],37,0.0003783843774760297
+285,[2166],"['colonic polyps', 'colon polyps', 'colon polyp', 'colonic polyp']",colonic polyps,0,['C0009376'],119,0.0005491390857219955
+286,[5668],"['lymphedema', 'lymph edema']",lymphedema,0,['C0024236'],37,0.00044150106607551806
+287,"[6104, 122092, 5948]","['mental retardation', 'developmental delay', 'mild mental retardation', 'development delay']",mental retardation,0,"['C0026106', 'C0424605', 'C0025362']",50,0.0005159934369225887
+288,"[155169, 5898]","['melena', 'black stools', 'dark stools', 'black stool', 'dark stool', 'tarry stools', 'black tarry stools', 'tarry stool', 'black tarry stool']",melena,1,"['C0474585', 'C0025222']",121,0.0008410665713373685
+289,"[1914, 14179, 13415]","['cholecystitis', 'chronic cholecystitis', 'acute cholecystitis', 'gallbladder inflammation']",cholecystitis,0,"['C0008325', 'C0149520', 'C0085694']",31,0.0002863548520762348
+290,[9051],"['gastric ulcer', 'gastric ulcers', 'stomach ulcer', 'stomach ulcers', 'gastric ulcerations', 'gastric ulceration']",gastric ulcer,0,['C0038358'],81,0.00018978529445159843
+291,[7296],"['peptic ulcer disease', 'peptic ulcer', 'ulcer disease', 'peptic ulcers', 'gastroduodenal ulcers']",peptic ulcer disease,0,['C0030920'],81,0.0005547629226320905
+292,[4532],"['hip fracture', 'hip fx', 'hip fractures', 'broken hip']",hip fracture,0,['C0019557'],92,0.000394632913859673
+293,"[13024, 29488, 9516]","['thyroidectomy', 'parathyroidectomy', 'total thyroidectomy']",thyroidectomy,0,"['C0079989', 'C0193788', 'C0040145']",25,0.0005121702518911432
+294,[7332],['pericarditis'],pericarditis,0,['C0031046'],108,0.00024155190248898305
+295,[6839],['osteopenia'],osteopenia,0,['C0029453'],65,0.0019642039793809143
+296,[2094],"['clotrimazole', 'clot']",clot,1,['C0009074'],45,0.0008571870992936196
+297,[106093],['chronic lupus erythematosus'],chronic lupus erythematosus,0,['C0406633'],84,4.458106831310537e-05
+298,[4395],"['hemoptysis', 'coughing up blood', 'bloody sputum', 'spitting up blood', 'hematemesis', 'blood streaked sputum', 'coughing blood', 'spit up blood', 'blood spitting up']",hemoptysis,0,['C0019079'],79,0.0005809449129813645
+299,[5438],['leukemia'],leukemia,0,['C0023418'],37,0.0007772586372299624
+300,[7016],"['overdose', 'overdoses', 'drug overdose']",overdose,0,['C0029944'],18,0.0008117697092548858
+301,"[205914, 3878]",['lasix'],lasix,1,"['C0699992', 'C0016860']",95,0.006724956868627128
+302,"[332093, 5591]","['lobectomy', 'temporal lobectomy']",lobectomy,0,"['C2959749', 'C0023928']",122,0.0003932845584244757
+303,"[6136, 97374]","['mitral valve replacement', 'mitral valve repair', 'mitral valve replacement surgery', 'mitral valvuloplasty']",mitral valve replacement,0,"['C0026268', 'C0396849']",93,0.00015667378123282954
+304,"[97467, 719]","['aortic valve replacement', 'aortic valve repair', 'aortic valvuloplasty']",aortic valve replacement,0,"['C0396949', 'C0003506']",93,0.00016429454961024208
+305,[24912],['toe amputation'],toe amputation,0,['C0188602'],128,0.00010959228163799754
+306,[496],"['amputations', 'amputation']",amputations,0,['C0002688'],128,0.0005026378909980079
+307,"[166545, 6737]","['opiate abuse', 'opioid abuse', 'opioid dependence', 'opiate dependence', 'narcotic dependence', 'opiate addiction']",opiate abuse,0,"['C0524662', 'C0029095']",18,0.00028559533540704137
+308,"[4489, 2702]","['heroin abuse', 'heroin addiction', 'heroin dependence']",heroin abuse,0,"['C0019337', 'C0011892']",18,0.0009078016314844748
+309,"[217147, 93455]",['keppra'],keppra,1,"['C0876060', 'C0377265']",19,0.0017016160253238216
+310,[4731],"['hyperthyroidism', 'hyperthyroid']",hyperthyroidism,0,['C0020550'],25,0.0005117264893428504
+311,[9711],"['shaking', 'tremor', 'tremors', 'shakes', 'shake', 'quivering']",shaking,1,['C0040822'],71,0.0033270072990831995
+312,[3091],"['cardioversion', 'cardioversions', 'electrical cardioversion', 'defibrillation', 'electric cardioversion']",cardioversion,0,['C0013778'],7,0.0004432334467928918
+313,[52648],"['hypoxia', 'hypoxic']",hypoxia,0,['C0242184'],130,0.000556956133688076
+314,[2697],"['dka', 'diabetic ketoacidosis']",diabetic ketoacidosis,0,['C0011880'],1,0.00042233393754733376
+315,[205938],"['anxiety attacks', 'anxiety attack']",anxiety attacks,0,['C0700031'],9,0.0001504696394518901
+316,[705],"['anxiety disorder', 'anxiety']",anxiety,1,['C0003469'],9,0.0005341450319267953
+317,[9486],['thrombocytopenia'],thrombocytopenia,0,['C0040034'],123,0.0006955636588682938
+318,[7162],"['paraplegia', 'leg paralysis']",paraplegia,0,['C0030486'],124,0.00033243788593740806
+319,"[13418, 8079]","['pyelonephritis', 'chronic pyelonephritis', 'kidney infection']",pyelonephritis,0,"['C0085697', 'C0034186']",29,0.0004841364062922628
+320,[3379],['esophageal varices'],esophageal varices,0,['C0014867'],91,0.00022521802715374503
+321,[1180],['neurogenic bladder'],neurogenic bladder,0,['C0005697'],29,0.0
+322,[4184],"['graves', 'graves disease', ""graves' disease"", ""grave's disease""]",graves,0,['C0018213'],25,0.0001397083976557902
+323,[420],"[""alzheimer's dementia"", ""alzheimer's disease"", 'alzheimers dementia', 'senile dementia', 'alzheimer disease', 'alzheimer dementia', 'alzheimers', 'alzheimer', ""alzheimer's"", 'sdat', 'senile dementia of the alzheimer type']",alzheimer's dementia,0,['C0002395'],33,4.563927131288046e-05
+324,[6850],['ostomy'],ostomy,0,['C0029473'],89,0.001076414332045412
+325,[3373],"['esophageal cancer', 'esophageal tumor', 'esophageal mass']",esophageal cancer,0,['C0014859'],37,0.00016443962582795318
+326,[84338],['parastomal hernia'],parastomal hernia,0,['C0341539'],111,3.9776485338320084e-05
+327,[4945],"['inguinal hernia repair', 'inguinal herniorrhaphy']",inguinal hernia repair,0,['C0021446'],111,0.00016879191235928621
+328,[57904],"['incisional hernia', 'incisional hernias']",incisional hernia,0,['C0267716'],111,0.00011480649158043768
+329,[85479],['incisional hernia repair'],incisional hernia repair,0,['C0342971'],111,4.9837947731342905e-05
+330,[6453],"['tumor', 'oncology', 'neoplasm', 'tumors', 'tumour', 'neoplastic disease', 'neoplasia']",tumor,0,['C0027651'],37,0.0039049312131781092
+331,"[1907, 58092]","['cholangitis', 'recurrent cholangitis']",cholangitis,0,"['C0008311', 'C0267922']",31,0.00018132820434855717
+332,"[53700, 163822]","['compression fracture', 'compression fractures', 'vertebral compression', 'vertebral compression fractures', 'vertebral body compression']",compression fracture,0,"['C0262431', 'C0521169']",92,0.0006096700040881625
+333,"[2547, 2550]","['vascular dementia', 'multi-infarct dementia', 'multi infarct dementia', 'multiinfarct dementia']",vascular dementia,0,"['C0011263', 'C0011269']",33,9.016913625502896e-05
+334,"[372738, 2548, 372766]","['dementia', 'mild dementia', 'severe dementia', 'presenile dementia']",dementia,0,"['C3494623', 'C0011265', 'C3494652']",33,6.316789197044525e-05
+335,[3149],['emphysema'],emphysema,0,['C0013990'],125,0.0
+336,[6004],['metformin'],metformin,1,['C0025598'],1,0.0026623278067970514
+337,[4761],"['hypoglycemia', 'low blood sugar', 'hypoglycemic']",hypoglycemia,0,['C0020615'],36,0.0015061044872202146
+338,[4762],"['hypoglycemic', 'antihyperglycemics', 'hypoglycemics']",hypoglycemic,1,['C0020616'],36,0.0003173670270857725
+339,"[217653, 213861]","['insomnia', 'chronic insomnia']",insomnia,0,"['C0917801', 'C0751249']",101,0.0030765630778380416
+340,[13141],"['foot ulcer', 'foot ulcers', 'foot ulceration', 'foot ulcerations']",foot ulcer,0,['C0085119'],81,0.0003246976430277629
+341,[14175],"['chronic sinusitis', 'chronic rhinosinusitis']",chronic sinusitis,0,['C0149516'],135,0.00018149034835658728
+342,[3296],"['epistaxis', 'nosebleeds', 'nose bleeds', 'nosebleed', 'nose bleed', 'nasal bleedings', 'nose bleeding']",epistaxis,0,['C0014591'],72,0.0007942922919682776
+343,"[217656, 730]","['aphasia', 'expressive aphasia', 'non-fluent aphasia']",aphasia,0,"['C0917814', 'C0003537']",50,0.0002593536077916511
+344,[5749],"['gastric cancer', 'stomach cancer', 'gastric cancers']",gastric cancer,0,['C0024623'],37,0.00022025983406608922
+345,[1360],['bronchiectasis'],bronchiectasis,0,['C0006267'],11,0.0003875924503531048
+346,"[1594, 67069]","['renal cell carcinoma', 'renal cell cancer', 'metastatic renal cell carcinoma', 'metastatic renal cell cancer', 'renal carcinoma', 'metastatic kidney cancer', 'renal cell carcinoma metastatic', 'cell renal cancer']",renal cell carcinoma,0,"['C0007134', 'C0278678']",37,0.0005912709261243313
+347,"[1584, 52136]","['thyroid cancer', 'papillary thyroid cancer', 'papillary thyroid carcinoma', 'papillary carcinoma of thyroid']",thyroid cancer,0,"['C0007115', 'C0238463']",37,0.00033655975729943524
+348,[13342],"['encephalopathy', 'brain syndrome']",encephalopathy,0,['C0085584'],50,0.0005418426053606432
+349,[4424],"['hepatic encephalopathy', 'portal systemic encephalopathy', 'hepatic enceph']",hepatic encephalopathy,0,['C0019151'],50,0.00018255708525152185
+350,[6245],"['cramping', 'spasm', 'cramps', 'muscle cramps', 'cramp', 'muscle cramping']",cramping,0,['C0026821'],13,0.0019600138368576115
+351,[7328],"['pericardial effusion', 'pericardial effusions', 'pericardial fluid']",pericardial effusion,0,['C0031039'],106,0.00026707678291097736
+352,[14872],['congenital heart disease'],congenital heart disease,0,['C0152021'],8,1.3099529069796467e-05
+353,[796],"['avm', 'arteriovenous malformation', 'av malformation', 'av malformations', 'arteriovenous malformations']",arteriovenous malformation,0,['C0003857'],131,0.00027351987375638214
+354,[2532],"['dehydration', 'dehydrated']",dehydration,0,['C0011175'],126,0.0015076661900343988
+355,[4370],"['hemiparesis', 'hemipareses']",hemiparesis,0,['C0018989'],50,0.00038097868160451054
+356,"[10118, 275790]","['chronic venous insufficiency', 'venous insufficiency']",venous insufficiency,0,"['C0042485', 'C1306557']",167,0.00021175154059209104
+357,[4890],['incontinence'],incontinence,1,['C0021167'],29,0.0012741788184711213
+358,[52645],"['pid', 'pelvic inflammatory disease']",pelvic inflammatory disease,0,['C0242172'],29,0.00020689575424634888
+359,[330635],"['metastases', 'metastasis', 'metastatic cancer', 'metastatic disease', 'cancer metastatic', 'metastatic']",metastases,0,"['C2939419', 'C0346957']",37,0.0011516406178761975
+360,[1847],['chlamydia'],chlamydia,0,['C0008148'],85,0.0011392494021046375
+361,[8564],['scoliosis'],scoliosis,0,['C0036439'],127,0.0
+362,"[7987, 7988]","['pseudotumor cerebri', 'pseudotumor', 'idiopathic intracranial hypertension']",pseudotumor cerebri,0,"['C0033844', 'C0033845']",37,0.00012396336108655602
+363,[19035],"['angioplasty', 'angioplasties']",angioplasty,0,['C0162577'],3,0.0005665738335328058
+364,[259],"['adrenal insufficiency', 'adrenal failure']",adrenal insufficiency,0,['C0001623'],129,0.0002336836511519457
+365,[3401],"['estrogen', 'estrogens']",estrogen,0,['C0014939'],61,0.0009937720913210414
+366,[1636],"['carotid stenosis', 'carotid artery stenosis', 'carotid stenoses']",carotid stenosis,0,['C0007282'],93,0.00024196152945663794
+367,[8707],"['sss', 'sick sinus syndrome']",sick sinus syndrome,0,['C0037052'],7,9.47774396411463e-05
+368,"[52259, 177579]","['arm pain', 'left arm pain', 'upper extremity pain', 'pain in left arm']",arm pain,0,"['C0239377', 'C0564820']",14,0.0006975691242307707
+369,"[5938, 333759]","['vaginal bleeding', 'menorrhagia', 'heavy periods', 'heavy menstrual bleeding', 'vaginal bleed', 'vagina bleeding', 'heavy menstrual periods', 'heavy menstruation', 'vaginal hemorrhage']",vaginal bleeding,0,"['C0025323', 'C2979982']",118,0.001095538791097799
+370,[5139],"['jaundice', 'jaundiced', 'icterus', 'icteric']",jaundice,0,['C0022346'],32,0.0006496598368054692
+371,[4428],['hepatitis'],hepatitis,0,['C0019158'],32,0.0006670348473501637
+372,[9695],"['transurethral resection of the prostate', 'transurethral prostatectomy', 'turps', 'turp']",transurethral resection of the prostate,0,['C0040771'],59,0.0002255849846456025
+373,[24130],"['knee surgery', 'knee surgeries', 'knee operations', 'knee operation']",knee surgery,0,['C0187769'],132,0.0004527231382102297
+374,[10312],"['gsw', 'gunshot wound', 'gunshot', 'gun shot wound', 'gunshot wounds', 'gunshot injury']",gunshot wound,0,['C0043252'],48,0.00028358133614940495
+375,[156344],"['endometrial cancer', 'endometrial carcinoma']",endometrial cancer,0,['C0476089'],37,0.00014586986996093225
+376,[2975],"['duodenal ulcer', 'duodenal ulcers', 'duodenal ulcer disease']",duodenal ulcer,0,['C0013295'],81,0.00010951547658156226
+377,[213479],"['perforated duodenal ulcer', 'duodenal ulcer with perforation', 'duodenal ulcer perforation']",perforated duodenal ulcer,0,['C0740401'],81,1.1879182061991325e-05
+378,"[7033, 166356]","['oxycodone', 'oxycontin']",oxycodone,1,"['C0030049', 'C0524222']",18,0.004012125470276294
+379,"[2654, 8559]","['scleroderma', 'systemic sclerosis']",scleroderma,0,"['C0011644', 'C0036421']",54,0.0007355364237952817
+380,"[25832, 213518]","['abdominal aortic aneurysm repair', 'aneurysm repair', 'repair of aneurysm']",abdominal aortic aneurysm repair,0,"['C0189661', 'C0741152']",94,0.00010052928497863348
+381,[8630],"['streptococcus pharyngitis', 'streptococcal pharyngitis', 'strept throat']",streptococcus pharyngitis,0,['C0036689'],160,5.391714961757269e-05
+382,"[9065, 76317]","['streptococcus', 'streptococcus viridans', 'strep', 'viridans streptococci', 'viridans streptococcus']",streptococcus,0,"['C0038402', 'C0318157']",160,0.0006637066282379679
+383,[205992],"['presyncope', 'near syncope', 'pre-syncope', 'presyncopes', 'pre syncope']",presyncope,1,['C0700200'],56,0.0002894867915997627
+384,[1585],"['basal cell carcinoma', 'basal cell cancer', 'basal cell carcinomas', 'basal cell skin cancer']",basal cell carcinoma,0,['C0007117'],37,0.0003503932013529467
+385,[5573],['lithium'],lithium,0,['C0023870'],9,0.0011473310008206618
+386,[5921],['meningitis'],meningitis,0,['C0025289'],144,0.0002917056043412266
+387,[13254],['cryptococcal meningitis'],cryptococcal meningitis,0,['C0085436'],144,1.2263207344167768e-05
+388,[8041],"['pulmonary fibrosis', 'pulm fibrosis', 'lung fibrosis']",pulmonary fibrosis,0,['C0034069'],11,9.767043010020884e-05
+389,[6260],['muscular dystrophy'],muscular dystrophy,0,['C0026850'],149,5.2662667029129635e-05
+390,[205661],['ativan'],ativan,1,['C0699194'],9,0.0036467467490233054
+391,"[93016, 61116]","['borderline diabetes', 'pre-diabetes', 'prediabetes', 'glucose intolerance', 'pre diabetes', 'impaired glucose tolerance', 'pre diabetic']",borderline diabetes,0,"['C0362046', 'C0271650']",1,0.00046543010810269023
+392,[5472],"['leukocytosis', 'elevated white blood count', 'high white blood count', 'leukocytoses']",leukocytosis,0,['C0023518'],133,0.0005228290869453293
+393,[1830],"['pleuritic chest pain', 'pleuritic pain']",pleuritic chest pain,0,['C0008033'],38,0.0002159160814299156
+394,[4565],"[""hodgkin's lymphoma"", 'hodgkins lymphoma', ""hodgkin's disease"", 'hodgkin lymphoma', 'hodgkin', 'hodgkins disease']",hodgkin's lymphoma,0,['C0019829'],37,7.337443058117917e-05
+395,[1607],"['hocm', 'hypertrophic cardiomyopathy', 'hypertrophic obstructive cardiomyopathy', 'obstructive hypertrophic cardiomyopathy']",hocm,0,['C0007194'],134,0.00017067790318953048
+396,[8292],"['retinopathy', 'retina']",retinopathy,0,['C0035309'],95,0.0005476541879642466
+397,[4846],"['immobilization', 'immobilisation']",immobilization,1,['C0020944'],124,0.0001400753551476477
+398,[742],"['appendicitis', 'acute appendicitis']",appendicitis,0,['C0003615'],137,0.0001828984410579009
+399,[10091],"['vasculitis', 'angiitis']",vasculitis,0,['C0042384'],136,0.0003193127551821332
+400,[1639],"['carpal tunnel', 'carpal tunnel syndrome', 'carpel tunnel syndrome']",carpal tunnel,0,['C0007286'],138,0.001004866155028361
+401,[6660],"['OCD', 'obsessive-compulsive disorder']",obsessive-compulsive disorder,0,['C0028768'],9,0.0004314054681018574
+402,"[524, 52693, 40511]","['opioids', 'opioid', 'opioid analgesics']",opioids,1,"['C0002772', 'C0242402', 'C0221793']",18,0.00037701042035535393
+403,[52692],"['opiate', 'opiates']",opiates,1,['C0242401'],18,0.0
+404,[5575],"['lithotripsy', 'lithotripsies']",lithotripsy,0,['C0023878'],27,0.000162681643425101
+405,"[211472, 2798]",['dilaudid'],dilaudid,1,"['C0728755', 'C0012306']",18,0.003232545613562953
+406,[647],"['nonsteroidal anti-inflammatory drug', 'nsaids', 'nsaid']",nonsteroidal anti-inflammatory drug,0,['C0003211'],139,0.001736127097348745
+407,[13588],"['percocet', 'percocets']",percocet,1,['C0086787'],18,0.005269287701799419
+408,[2698],['diabetic nephropathy'],diabetic nephropathy,0,['C0011881'],24,0.00024967617068080467
+409,"[2699, 39893]","['diabetic neuropathy', 'diabetic foot ulcers', 'diabetic foot ulcer', 'diabetes mellitus with neuropathy', 'diabetic foot']",diabetic neuropathy,0,"['C0011882', 'C0206172']",80,0.0005749541185794119
+410,[2356],"['craniotomy', 'craniotomies']",craniotomy,0,['C0010280'],122,0.0002454177569962259
+411,"[7448, 205766]",['dilantin'],dilantin,1,"['C0031507', 'C0699512']",19,0.002312310096831121
+412,[163328],"['tubal ligation', 'tubal ligations']",tubal ligation,0,['C0520483'],118,0.00036055707048788323
+413,[40023],"['cholangiocarcinoma', 'bile duct cancer']",cholangiocarcinoma,0,['C0206698'],37,9.102252577097664e-05
+414,"[301552, 8935]","['spinal fusion', 'spinal fusions']",spinal fusion,0,"['C1704329', 'C0037935']",140,0.00011481502547559717
+415,[18108],"['ankle fracture', 'ankle fx', 'ankle fractures', 'broken ankle', 'fractured ankle']",ankle fracture,0,['C0159877'],92,0.00032049043271414093
+416,[18217],"['ankle sprain', 'ankle sprains', 'twisted ankle', 'sprained ankle']",ankle sprain,0,['C0160087'],92,0.00025965229412223284
+417,"[9592, 29628]","['t&a', 'tonsillectomy', 'tonsillectomy and adenoidectomy']",tonsillectomy,0,"['C0040423', 'C0193959']",153,0.0004561366962740203
+418,[86],"['fall', 'falls', 'falling', 'fall down', 'falling down', 'mechanical fall', 'mechanical falls']",falls,0,['C0000921'],52,0.0
+419,[526],"['anaphylaxis', 'anaphylactic reactions', 'anaphylactic reaction', 'anaphylactic shock']",anaphylaxis,0,['C0002792'],141,0.0003899734071025988
+420,[285857],"['paranoia', 'paranoid psychosis', 'paranoid disorder']",paranoia,0,['C1456784'],9,0.0007040634184471322
+421,"[2546, 90475]","['delusions', 'paranoid delusions', 'delusional', 'delusion', 'delusions of persecution']",delusions,0,"['C0011253', 'C0349398']",9,0.0008698087302344852
+422,"[313370, 313036]","['right hip pain', 'left hip pain', 'pain in right hip']",right hip pain,0,"['C2202100', 'C2141922']",14,0.0005767377026677426
+423,[7686],"['polyps', 'polyp']",polyps,0,['C0032584'],119,0.0017288903542535088
+424,[4635],['hydrocephalus'],hydrocephalus,0,['C0020255'],142,0.00015472805313646888
+425,[256633],['metastatic prostate cancer'],metastatic prostate cancer,0,['C1282496'],37,6.002741855175789e-05
+426,[6065],['metoprolol'],metoprolol,1,['C0025859'],10,0.003479670149591075
+427,[19472],"['PEG', 'percutaneous endoscopic gastrostomy']",percutaneous endoscopic gastrostomy,0,['C0176751'],143,0.0006072122422822332
+428,[4688],"['hyperglycemia', 'elevated glucose', 'high blood glucose', 'elevated blood glucose']",hyperglycemia,0,['C0020456'],36,0.0011041409574185509
+429,"[55165, 225118]","['respiratory failure', 'chronic respiratory failure']",respiratory failure,0,"['C0264492', 'C1145670']",162,0.00015587159508783873
+430,"[1576, 1597]","['carcinoma', 'transitional cell carcinoma', 'urothelial carcinoma']",carcinoma,0,"['C0007097', 'C0007138']",37,0.001100514051975774
+431,[5704],['macular degeneration'],macular degeneration,0,['C0024437'],95,0.00020902922803621798
+432,[4708],"['hyperparathyroidism', 'hyperpth']",hyperparathyroidism,0,['C0020502'],25,0.0004227350306198292
+433,[213492],"['renal cancer', 'kidney cancer', 'kidney cancers']",renal cancer,0,['C0740457'],37,0.00012754759705353616
+434,[6160],"['mgus', 'monoclonal gammopathy', 'monoclonal gammopathy of unknown significance', 'monoclonal gammopathy of undetermined significance']",mgus,0,['C0026470'],146,0.00028824937680163864
+435,[2899],"['diuretic', 'diuretics']",diuretic,0,['C0012798'],145,0.0010932858427756974
+436,[55],"['miscarriage', 'miscarriages', 'spontaneous abortion', 'spontaneous abortions']",miscarriage,0,['C0000786'],118,0.0002877117414065916
+437,[195905],"['factor v leiden', 'factor 5 leiden mutation', 'factor v leiden mutation']",factor v leiden,0,['C0584960'],20,8.884638250531011e-05
+438,[5334],"['laparotomy', 'laparotomies']",laparotomy,0,['C0023038'],147,0.00042834179973960527
+439,[2539],"['delirium', 'acute delirium', 'delirious']",delirium,0,['C0011206'],33,0.0006852205779350082
+440,"[7092, 7101]","['pancreatic pseudocyst', 'pancreatic cyst', 'pancreatic cysts', 'pancreatic pseudocysts', 'cyst pancreas']",pancreatic pseudocyst,0,"['C0030283', 'C0030299']",96,0.00011868087998284004
+441,[2270],"['bruising', 'contusion', 'bruise', 'contusions', 'bruises', 'bruised']",bruising,0,['C0009938'],44,0.0019645965385582504
+442,"[201589, 11807]",['lamictal'],lamictal,1,"['C0678180', 'C0064636']",19,0.002044678610734778
+443,[206],['adenocarcinoma'],adenocarcinoma,0,['C0001418'],37,0.0007296395022400834
+444,"[19114, 13156]","['hidradenitis', 'hydradenitis', 'hidradenitis suppurativa']",hidradenitis,0,"['C0162836', 'C0085160']",169,0.00016821160748844185
+445,[11864],['lisinopril'],lisinopril,1,['C0065374'],10,0.006459006559877201
+446,[39868],"['discectomy', 'diskectomy', 'discectomies']",discectomy,0,['C0206078'],86,0.00018985356561287433
+447,"[90322, 82219]","['mania', 'manic', 'manic episode', 'manias']",mania,0,"['C0349208', 'C0338831']",9,0.0008518704826092657
+448,[2998],"['dysarthria', 'dysarthric speech', 'slurring', 'slurred speech']",dysarthria,0,['C0013362'],149,0.0004278639016106746
+449,[205815],['flagyl'],flagyl,1,['C0699678'],150,0.001261744933223764
+450,[1583],"['skin cancer', 'skin cancers', 'cancer skin', 'cancer of the skin']",skin cancer,0,['C0007114'],37,0.00043751573703604247
+451,"[87707, 162175]","['liver cancer', 'cancer metastatic to liver', 'metastases to liver', 'metastatic liver cancer', 'liver metastasis', 'liver metastases', 'hepatic metastases', 'metastatic cancer to liver', 'cancer of liver', 'hepatic cancer', 'hepatic metastasis']",liver cancer,0,"['C0345904', 'C0494165']",37,0.00021301455707569355
+452,[78093],"['pseudocyst', 'pseudocysts']",pseudocyst,0,['C0333161'],96,8.785645066681083e-05
+453,[60486],['crampy'],crampy,0,['C0270814'],50,0.0
+454,[8359],"['rib fractures', 'rib fracture', 'broken rib', 'fractured rib', 'rib fx']",rib fractures,0,['C0035522'],92,0.0002934806545343977
+455,[7107],"['pancytopenia', 'pancytopenias']",pancytopenia,0,['C0030312'],151,0.00029317343430865656
+456,"[60313, 217307, 1315]","['traumatic brain injury', 'concussion', 'brain injury', 'concussions', 'brain inj', 'brain damage', 'brain injuries', 'acquired brain injury', 'traumatic brain injuries']",traumatic brain injury,0,"['C0270611', 'C0876926', 'C0006107']",50,0.00036635158530116783
+457,"[156489, 8263]","['RDS', 'respiratory distress', 'difficulty breathing', 'acute respiratory distress syndrome', 'respiratory distress syndrome', 'ards']",respiratory distress syndrome,0,"['C0476273', 'C0035222']",162,0.00015094753758082078
+458,[4488],"['ventral hernia repair', 'ventral herniorrhaphy', 'repair of ventral hernia']",ventral hernia repair,0,['C0019334'],111,0.00013207056148805869
+459,"[282936, 73145]","['mesenteric ischemia', 'chronic mesenteric ischemia']",mesenteric ischemia,0,"['C1412000', 'C0311262']",40,9.871156530966498e-05
+460,"[83602, 83606]","['aortic dissection', 'type b aortic dissection', 'aorta dissection', 'aortic dissections']",aortic dissection,0,"['C0340643', 'C0340647']",154,0.00012710383450524338
+461,[21209],"['acute pain', 'acute onset pain']",acute pain,0,['C0184567'],15,0.00015166438477421686
+462,[148255],"['sharp pain', 'pain sharp']",sharp pain,0,['C0455270'],14,0.00034895950696615463
+463,[1270],"['BMT', 'bone marrow transplantation', 'bone marrow transplant']",bone marrow transplantation,0,['C0005961'],67,0.00029471806933252184
+464,[36639],"['cea', 'carcinoembryonic antigen']",carcinoembryonic antigen,0,['C0201933'],37,0.0006827628161290789
+465,"[7684, 216431]","['FAP', 'colonic adenoma', 'familial adenomatous polyposis', 'colon adenoma', 'colon adenomatous polyp', 'adenoma of colon', 'familial polyposis']",colonic adenoma,0,"['C0032580', 'C0850572']",37,0.00015477072261226626
+466,[16742],"['BPPV', 'benign positional vertigo', 'benign paroxysmal positional vertigo']",bppv,0,['C0155502'],51,0.0001618111861188344
+467,[14713],"['bloody diarrhea', 'bloody bowel movement']",bloody diarrhea,0,['C0151594'],47,0.00012160800602254048
+468,[867],"['ataxia', 'dyssynergia']",ataxia,0,['C0004134'],149,0.0003723679813885986
+469,[4609],"['humerus fracture', 'humeral fracture']",humerus fracture,0,['C0020162'],92,0.00012539705547334808
+470,[3618],"['femur fracture', 'femoral fracture']",femur fracture,0,['C0015802'],92,9.639887972144683e-05
+471,"[67305, 8180, 51927]","['sexual abuse', 'sexual assault', 'rape', 'raped', 'forcible intercourse']",sexual abuse,0,"['C0282350', 'C0034668', 'C0237236']",17,0.0009487131248790057
+472,"[545, 555, 549, 559]","['pernicious anemia', 'hemolytic anemia', 'anemia of chronic disease', 'macrocytic anemia', 'anemia of chronic illness', 'anemia chronic disease']",pernicious anemia,0,"['C0002873', 'C0002886', 'C0002878', 'C0002892']",39,0.0003974747009477786
+473,[52607],['autoimmune hepatitis'],autoimmune hepatitis,0,['C0241910'],32,0.00012689902102141598
+474,[15562],['nasopharyngeal cancer'],nasopharyngeal cancer,0,['C0153392'],37,0.0
+475,[15529],"['tongue cancer', 'cancer of the tongue', 'cancer of tongue']",tongue cancer,0,['C0153349'],37,2.1684627600229853e-05
+476,[1580],"['laryngeal cancer', 'larynx cancer', 'cancer of larynx', 'cancer of the larynx']",laryngeal cancer,0,['C0007107'],37,4.583555090154842e-05
+477,[3378],"['esophageal stricture', 'esophageal strictures', 'esophageal narrowing', 'esophageal stenosis']",esophageal stricture,0,['C0014866'],156,6.793833936459262e-05
+478,"[218439, 83295]","['tracheobronchomalacia', 'tracheomalacia']",tracheobronchomalacia,0,"['C0948187', 'C0340231']",11,0.00014271232875192596
+479,[9655],['tracheostomy'],tracheostomy,0,['C0040590'],155,0.00028190015880298814
+480,[52303],"['groin pain', 'inguinal pain']",groin pain,0,['C0239783'],14,0.0003844519769344175
+481,"[317472, 368641]","['myelodysplastic syndrome', 'myelodysplasia']",myelodysplastic syndrome,0,"['C2347761', 'C3463824']",37,0.00015134009675815671
+482,[4639],"['hctz', 'hydrochlorothiazide']",hctz,1,['C0020261'],10,0.004837583547366979
+483,[4494],['herpes simplex'],herpes simplex,0,['C0019348'],85,0.0005131004464635261
+484,[8196],['rectal pain'],rectal pain,0,['C0034886'],14,0.0002508709160031314
+485,"[2860, 2863]","['disc disease', 'discitis', 'diskitis', 'disc disorder', 'disc diseases']",disc disease,0,"['C0012619', 'C0012624']",86,0.00036818637276045515
+486,[58378],['incl'],incl,0,['C0268281'],33,0.00037466359918649785
+487,[14960],"['cyclic vomiting syndrome', 'cyclical vomiting', 'cyclical vomiting syndrome']",cyclic vomiting syndrome,0,['C0152164'],43,9.760215893893302e-05
+488,[3606],"['bowel incontinence', 'fecal incontinence', 'stool incontinence', 'incontinence of bowel', 'incontinent of stool', 'incontinence of stool', 'loss of bowel control', 'incontinence bowel', 'incontinence of feces', 'incontinent of feces', 'incontinence stool', 'anal incontinence', 'incontinence fecal', 'incontinent of bowels']",fecal incontinence,0,['C0015732'],29,0.0003963567606818872
+489,[52169],"['ankle pain', 'pain in ankle']",ankle pain,0,['C0238656'],14,0.0006629556454639339
+490,[206135],['keflex'],keflex,1,['C0700517'],150,0.001293482489321857
+491,[166568],"['reconstruction', 'reconstructive surgery', 'reconstructions', 'reconstructive surgeries', 'surgical reconstruction']",reconstruction,0,['C0524865'],157,0.0004317894933840338
+492,[209332],['levaquin'],levaquin,1,['C0721336'],150,0.0008630925547439773
+493,[5651],"['lyme disease', ""lyme's disease"", 'lymes disease']",lyme disease,0,['C0024198'],158,0.00012834978319852693
+494,[13376],"['photophobia', 'sensitivity to light', 'light sensitivity']",photophobia,0,['C0085636'],159,0.0004567255350400241
+495,[208204],['depakote'],depakote,1,['C0719751'],9,0.001894806343944052
+496,[7973],"['pseudomonas', 'pseudomonas species']",pseudomonas,0,['C0033808'],161,0.0002275392466371226
+497,[8696],"['shoulder dislocation', 'shoulder dislocations']",shoulder dislocations,0,['C0037005'],163,4.848959229614562e-05
+498,[3099],"['est', 'ect', 'electroconvulsive therapy', 'electroshock therapy']",electroconvulsive therapy,0,['C0013806'],9,0.0016609776165743947
+499,[36406],"['rf', 'rheumatoid factor']",rheumatoid factor,0,['C0201660'],164,0.0004797414502851324
+500,"[14274, 7645]","['pneumothorax', 'spontaneous pneumothorax', 'ptx']",pneumothorax,0,"['C0149781', 'C0032326']",175,0.0001417906680747025
+501,[28690],"['total colectomy', 'complete colectomy']",total colectomy,0,['C0192871'],89,5.450598838357657e-05
+502,[10100],"['vasovagal syncope', 'neurocardiogenic syncope', 'vasovagal episode', 'vasovagal syndrome']",vasovagal syncope,0,['C0042420'],56,7.366458301660135e-05
+503,[13214],"['ivig', 'intravenous immunoglobulin']",ivig,0,['C0085297'],165,0.0011906063831743675
+504,[7787],"['ectopic pregnancy', 'ectopic pregnancies']",ectopic pregnancy,0,['C0032987'],118,0.00013346158639905342
+505,[7088],"['pancreas transplant', 'pancreatic transplant', 'pancreas transplants']",pancreas transplant,0,['C0030275'],67,0.000290476723438262
+506,[14248],"['lvh', 'left ventricular hypertrophy']",left ventricular hypertrophy,0,['C0149721'],166,0.0009065812844766695
+507,"[52320, 225563, 378541, 2103]","['frontal headache', 'daily headaches', 'daily headache', 'cluster headaches', 'intermittent headaches', 'intermittent headache', 'frontal headaches', 'recurrent headaches', 'cluster headache']",frontal headache,1,"['C0239886', 'C1168188', 'C3661947', 'C0009088']",16,0.0005944370012284969
+508,[15675],"['uterine cancer', 'uterus cancer']",uterine cancer,0,['C0153567'],37,0.00012468020827995205
+509,[2518],"['decubitus ulcers', 'decubitus ulcer', 'pressure ulcers', 'pressure sore', 'decubitus', 'pressure ulcer', 'chronic decubitus ulcer', 'bed sores', 'pressure sores']",decubitus ulcers,0,['C0011127'],81,0.0005559662018495766
+510,[596],"['angioedema', ""quincke's disease""]",angioedema,0,['C0002994'],179,0.0002694918752411092
+511,[3375],"['esophageal dysmotility', 'esophageal spasm', 'esophageal spasms', 'esophageal motility disorder', 'diffuse esophageal spasm']",esophageal dysmotility,0,"['C0014863', 'C0014858']",91,0.00015993372918374956
+512,[3372],"['esophageal dysmotility', 'esophageal motility disorder']",esophageal dysmotility,1,['C0014858'],91,0.0
+513,"[9091, 320876, 218421, 53702]","['stroke', 'CVA', 'strokes', 'cerebellar stroke', 'ischemic stroke', 'embolic stroke', 'ischemic strokes', 'cerebrovascular accident', 'cerebral vascular accident']",stroke,0,"['C0038454', 'C2674383', 'C0948008', 'C0262469']",40,0.0039031817646704155
+514,"[4048, 1321, 40154, 15716]","['brain tumor', 'glioblastoma', 'brain cancer', 'brain metastases', 'brain metastasis', 'cancer metastatic to brain', 'glioblastoma multiforme', 'brain tumors', 'metastasis to the brain', 'metastasis to brain', 'metastases to brain', 'metastatic cancer to brain', 'malignant brain tumor']",brain tumor,0,"['C0017636', 'C0006118', 'C0220650', 'C0153633']",37,0.0004763278922213418
+515,[7666],['polycythemia'],polycythemia,0,['C0032461'],37,0.00019261854764454463
+516,[14736],"['PVC', 'PVCs', 'ventricular ectopy', ""pvc's"", 'premature ventricular contraction', 'extra heart beat', 'ventricular ectopic beats']",pvcs,0,['C0151636'],7,0.0003785379875889003
+517,[213],"['adenoma', 'adenomas']",adenoma,0,['C0001430'],37,0.0007313292134816597
+518,[14659],"['neck stiffness', 'stiff neck']",neck stiffness,1,['C0151315'],15,0.00022233357058984194
+519,[4647],['hydronephrosis'],hydronephrosis,0,['C0020295'],23,0.0002331716174423771
+520,[5253],['klebsiella'],klebsiella,0,['C0022727'],168,0.0003431052548867537
+521,[330256],"['ptca', 'percutaneous transluminal coronary angioplasty']",ptca,0,['C2936173'],3,0.00025765536265491524
+522,[795],"['av fistula', 'arteriovenous fistula']",av fistula,0,['C0003855'],90,0.00044478661571191653
+523,[4372],"['hemiplegia', 'hemiparalysis']",hemiplegia,0,['C0018991'],50,5.4881479770593545e-05
+524,[60521],"['hemiplegic migraines', 'hemiplegic migraine']",hemiplegic migraines,0,['C0270862'],16,3.3367530073553217e-06
+525,"[18914, 19495]","['distal pancreatectomy', 'partial pancreatectomy', 'subtotal pancreatectomy']",distal pancreatectomy,0,"['C0161912', 'C0176940']",191,8.437462144174441e-05
+526,[6032],['methotrexate'],methotrexate,1,['C0025677'],43,0.0012219172445144867
+527,[3686],['fibrosis'],fibrosis,0,['C0016059'],11,0.0007113598988084847
+528,[164098],['gallstone pancreatitis'],gallstone pancreatitis,0,['C0521614'],31,5.434384437554652e-05
+529,[871],['atenolol'],atenolol,1,['C0004147'],10,0.0036902098770705202
+530,[478],"['memory loss', 'amnesia']",memory loss,0,['C0002622'],33,7.588339575806527e-05
+531,[50532],"['memory deficits', 'memory impairment', 'memory problems', 'memory deficit', 'poor memory', 'impaired memory']",memory deficits,0,['C0233794'],33,0.0005556333799383572
+532,[39850],['zofran'],zofran,1,['C0206046'],43,0.001647767146867525
+533,[533],"['roux-en-y', 'roux en y', 'roux-en-y bypass', 'roux-en-y anastomosis', 'bypass roux-en-y']",roux-en-y,0,['C0002804'],73,8.685798493315209e-05
+534,[313614],"['hepatocellular carcinoma', 'hepatoma', 'hepatocellular cancer', 'liver carcinoma']",hepatocellular carcinoma,0,['C2239176'],37,0.00024202980061791376
+535,[5245],"['polycystic kidney disease', 'polycystic kidney', 'polycystic kidneys']",polycystic kidney disease,0,['C0022680'],24,9.539188009262857e-05
+536,[9779],['trigeminal neuralgia'],trigeminal neuralgia,0,['C0040997'],50,0.0001040452497843378
+537,[90352],"['pseudoseizures', 'pseudoseizure', 'dissociative convulsions']",pseudoseizures,0,['C0349245'],19,0.00013067953657706403
+538,[5618],"['lower gastrointestinal bleed', 'lower gastrointestinal bleeding', 'lgi bleed']",lower gastrointestinal bleed,0,['C0024050'],72,9.563082915709394e-05
+539,[200479],['cellcept'],cellcept,1,['C0592558'],67,0.0007835737196479751
+540,[217746],"['spine surgery', 'spine surgeries']",spine surgery,0,['C0920347'],170,0.00011966227792617984
+541,"[7920, 13417]","['prostatitis', 'chronic prostatitis']",prostatitis,0,"['C0033581', 'C0085696']",29,0.00018742140549242345
+542,[60327],['epidural abscess'],epidural abscess,0,['C0270629'],44,6.563418767153396e-05
+543,[3013],"['dyspepsia', 'indigestion']",dyspepsia,0,['C0013395'],69,0.0006055225310406567
+544,[5104],['ischemia'],ischemia,0,['C0022116'],40,0.0006761490473804846
+545,"[4336, 4337, 52063]","['cavernoma', 'hemangioma', 'cavernous hemangioma', 'liver hemangioma', 'angioma', 'hemangiomas', 'hepatic hemangioma', 'cavernous angioma', 'hemangioma of the liver', 'liver hemangiomas', 'cavernous hemangiomas']",cavernoma,0,"['C0018916', 'C0018920', 'C0238246']",37,0.0002480803322859826
+546,[3033],"['ear pain', 'otalgia', 'ear aches', 'ear ache', 'earache']",ear pain,1,['C0013456'],51,0.0005713613487172722
+547,[28454],"['small bowel resection', 'resection of small intestine', 'small intestine resection']",small bowel resection,0,['C0192601'],171,7.254664275070995e-05
+548,[16877],['portal vein thrombosis'],portal vein thrombosis,0,['C0155773'],20,6.622302643753783e-05
+549,[5385],"['lower extremity ulcer', 'leg ulcers', 'leg ulcer', 'lower extremity ulceration']",lower extremity ulcer,0,['C0023223'],81,0.00014776439468633604
+550,[10308],"['wound infection', 'infected wound', 'wound infections']",wound infection,0,['C0043241'],172,0.0002657881647418964
+551,[623],['anoxic brain injury'],anoxic brain injury,0,['C0003132'],50,8.405886732084378e-05
+552,[51679],['calf pain'],calf pain,0,['C0236040'],14,0.00016081272038517564
+553,"[2459, 40501, 67326]","['interstitial cystitis', 'cystitis', 'chronic cystitis']",interstitial cystitis,0,"['C0010692', 'C0221763', 'C0282488']",29,0.0002552232025344645
+554,[802],['septic arthritis'],septic arthritis,0,['C0003869'],46,0.0
+555,[4062],"['iga nephropathy', 'segmental glomerulonephritis']",iga nephropathy,0,['C0017661'],24,0.0001091741207751832
+556,[4481],"['umbilical hernia', 'umbilical hernias']",umbilical hernia,0,['C0019322'],111,0.00017342581743088196
+557,[13339],['restrictive lung disease'],restrictive lung disease,0,['C0085581'],11,0.00012995415548850854
+558,[6561],"['night sweats', 'night sweat', 'nights sweats']",night sweats,0,['C0028081'],173,0.000973546759793082
+559,"[804, 7677]","['rheumatoid arthritis', 'polymyalgia rheumatica']",rheumatoid arthritis,0,"['C0003873', 'C0032533']",46,0.0032398250261339873
+560,[58110],['necrotizing pancreatitis'],necrotizing pancreatitis,0,['C0267941'],31,2.875069279227641e-05
+561,"[9627, 315853, 315854]","['thr', 'total hip replacement', 'left hip replacement', 'right hip replacement', 'total hip arthroplasty', 'total hip replacements', 'hip replacement left']",total hip replacement,0,"['C0040508', 'C2316675', 'C2316676']",98,0.000448447656735332
+562,[9606],"['broken teeth', 'chipped tooth', 'tooth fractures']",tooth fractures,0,['C0040441'],182,0.0003203965598673867
+563,[8708],"['sickle cell trait', 'sickle cell traits']",sickle cell trait,0,['C0037054'],152,0.00013983640608318236
+564,[562],"['sickle cell disease', 'sickle cell anemia', 'sickle cell disorder']",sickle cell disease,0,['C0002895'],152,0.00018134527213887618
+565,[2870],"['dislocation', 'dislocations', 'dislocated', 'dislocation/subluxation']",dislocation,0,['C0012691'],163,0.0002746122123367951
+566,[],[],post cholecystectomy,1,['C0152099'],31,0.00026703411343517996
+567,[67412],['seroquel'],seroquel,1,['C0287163'],9,0.0023817162661631443
+568,[225988],['suboxone'],suboxone,1,['C1170625'],18,0.00018364942383193483
+569,[1589],"['dcis', 'intraductal breast cancer', 'ductal carcinoma in situ', 'breast ductal carcinoma in situ']",dcis,0,['C0007124'],37,0.0002830180990688795
+570,[510],"['amyloidosis', 'amyloid']",amyloidosis,0,['C0002726'],174,0.00011726425338636696
+571,[6176],['morphine'],morphine,1,['C0026549'],18,0.0021477253947854574
+572,[9317],"['tamoxifen', 'tamoxifene']",tamoxifen,1,['C0039286'],37,0.0006115474610232473
+573,[7203],"['partial gastrectomy', 'subtotal gastrectomy']",partial gastrectomy,0,['C0030600'],177,4.779834678822802e-05
+574,[8276],"['restless leg syndrome', 'restless leg', 'restless legs syndrome', 'restless legs']",restless leg syndrome,0,['C0035258'],176,0.0005847168946418531
+575,[11563],['gabapentin'],gabapentin,1,['C0060926'],18,0.0025097844308214078
+576,[7653],['polio'],polio,0,['C0032371'],178,0.0001158732284753723
+577,[8036],"['pulmonary edema', 'pulm edema']",pulmonary edema,0,['C0034063'],179,0.00028935878317237063
+578,"[7562, 7555, 87989]","['pituitary adenoma', 'pituitary tumor', 'pituitary microadenoma', 'pituitary tumors']",pituitary adenoma,0,"['C0032019', 'C0032000', 'C0346306']",37,0.00015990812749827114
+579,[186554],['rib pain'],rib pain,0,['C0574068'],14,0.00030116969407308606
+580,[163854],"['polypectomy', 'polyp removal', 'polyp resection', 'resection of polyp']",polypectomy,0,['C0521210'],119,0.0001832653985497584
+581,[10210],"['vitamin d deficiency', 'hypovitaminosis d']",vitamin d deficiency,0,['C0042870'],180,0.0002810211676015621
+582,[8762],"['skin infections', 'skin infection']",skin infections,0,['C0037278'],181,9.878837036610026e-05
+583,[1575],"['carcinoid', 'carcinoid tumor', 'carcinoid tumors', 'carcinoids']",carcinoid,0,['C0007095'],37,0.0001519630711047985
+584,[4374],"['hemochromatosis', 'hematochromatosis']",hemochromatosis,0,['C0018995'],39,8.656783249772988e-05
+585,[217672],"['cerebral aneurysm', 'cerebral aneurysms']",cerebral aneurysm,0,['C0917996'],94,6.653878055843846e-05
+586,"[8184, 8183]","[""raynaud's syndrome"", 'raynaud phenomenon', 'raynauds', ""raynaud's phenomenon"", 'rd', 'raynaud', 'raynaud disease', ""raynaud's disease""]",raynaud phenomenon,0,"['C0034735', 'C0034734']",206,0.0005251417725335475
+587,[51670],"['jaw pain', 'pain in jaw', 'lower jaw pain', 'mandibular pain', 'pain of jaw']",jaw pain,0,['C0236000'],182,0.00017208599589084417
+588,[179207],"['primary sclerosing cholangitis', 'sclerosing cholangitis', 'primary sclerosing cholangitis (psc)']",primary sclerosing cholangitis,0,['C0566602'],31,6.978166071903955e-05
+589,"[213552, 206196, 16253, 240519]","['radiculopathy', 'cervical radiculopathy', 'lumbar radiculopathy', 'lumbosacral radiculopathy', 'lumbar radiculitis']",radiculopathy,0,"['C0742186', 'C0700594', 'C0154738', 'C1263855']",80,0.0013902824621157992
+590,[8198],['rectal prolapse'],rectal prolapse,0,['C0034888'],184,6.113682492248983e-05
+591,[9617],"['tooth pain', 'dental pain', 'toothache', 'toothaches', 'tooth ache', 'pain in tooth']",tooth pain,0,['C0040460'],182,0.00029474367101800026
+592,[204],"[""addison's disease"", 'addison disease', 'addisons disease', 'hypocortisolism', 'primary adrenal insufficiency']",addison's disease,0,['C0001403'],183,1.171703805396127e-05
+593,[5480],"['leukopenia', 'neutropenia']",leukopenia,0,['C0023530'],148,0.00028405070038317614
+594,[15687],"['testicular cancer', 'testis cancer']",testicular cancer,0,['C0153594'],37,5.0648667771493185e-05
+595,[213894],"['upper extremity weakness', 'arm weakness', 'upper extremity paresis', 'arm paresis', 'weakness in arm']",upper extremity weakness,0,['C0751409'],41,0.00013696901730959825
+596,[123671],['urinary symptoms'],urinary symptoms,1,['C0426359'],29,0.00034992383711917544
+597,[307635],['temporal arteritis'],temporal arteritis,0,['C1956391'],186,0.0001678019805207869
+598,[83338],"['stable angina', 'chronic stable angina', 'stable angina pectoris']",stable angina,0,['C0340288'],38,7.724881898358152e-05
+599,[7375],['peritonitis'],peritonitis,0,['C0031154'],185,0.00010746734174328788
+600,[205699],['klonopin'],klonopin,1,['C0699315'],19,0.0022408899282414627
+601,[8975],"['ankylosing spondylitis', 'ank spond']",ankylosing spondylitis,0,['C0038013'],46,6.456745077659939e-05
+602,"[28680, 14258, 28684, 28685]","['partial colectomy', 'subtotal colectomy', 'sigmoid colectomy', 'sigmoidectomy', 'left colectomy', 'right hemicolectomy', 'right colectomy', 'partial colon resection', 'left hemicolectomy', 'partial resection of colon', 'open colectomy']",partial colectomy,0,"['C0192861', 'C0149750', 'C0192865', 'C0192866']",89,0.00036960299935692834
+603,"[3021, 3022]","['dystonia', 'idiopathic torsion dystonia', 'dystonia musculorum deformans', 'dystonias']",dystonia,0,"['C0013421', 'C0013423']",149,0.0002599595143479739
+604,"[167811, 9109, 14759]","['hemorrhagic stroke', 'subarachnoid hemorrhage', 'intracranial hemorrhage', 'intracranial bleed', 'intracranial bleeding', 'hemorrhagic strokes', 'brain hemorrhage', 'subarachnoid hemorrhages']",hemorrhagic stroke,0,"['C0553692', 'C0038525', 'C0151699']",44,0.0002012889851265728
+605,[5927],['viral meningitis'],viral meningitis,0,['C0025297'],144,4.930031233629589e-05
+606,"[121881, 8605, 13198]","['self harm', 'self-harm', 'self-injurious behavior', 'self injurious behavior', 'self mutilation', 'self injury', 'self destructive behavior', 'self-mutilation', 'deliberate self-harm', 'self inflicted wounds']",self harm,0,"['C0424366', 'C0036601', 'C0085271']",4,0.0005261658399526847
+607,[17518],"['degenerative disc disease', 'disc degeneration', 'disk degeneration', 'degeneration disc']",degenerative disc disease,0,['C0158266'],86,0.0002819086926981475
+608,[14692],['premature birth'],premature birth,0,['C0151526'],118,0.0003614957989554256
+609,[56654],"['pancreatic divisum', 'pancreas divisum']",pancreatic divisum,0,['C0266270'],187,7.435582852451897e-05
+610,[4432],"['alcoholic hepatitis', 'alcohol hepatitis']",alcoholic hepatitis,0,['C0019187'],32,6.658145003423585e-05
+611,"[39865, 111950]","['domestic violence', 'domestic abuse']",domestic violence,0,"['C0206073', 'C0413318']",17,0.0007381051262382842
+612,[3590],['chronic fatigue syndrome'],chronic fatigue syndrome,0,['C0015674'],83,4.8353049973594e-05
+613,[9556],"['tinnitus', 'ringing in ears', 'ear ringing', 'ringing in the ear', 'ringing in the ears', 'ringing in ear', 'hearing noises']",tinnitus,0,['C0040264'],51,0.00039087799998950334
+614,[13303],"['enterococcus', 'enterococcal']",enterococcus,0,['C0085494'],66,0.00028848832586610395
+615,[3709],"['anal fissure', 'anal fissures', 'anal ulcer', 'anal ulceration']",anal fissure,0,['C0016167'],188,0.00010828659567859765
+616,[9662],['tramadol'],tramadol,1,['C0040610'],18,0.0013443871739481346
+617,[4161],"['graft-versus-host disease', 'graft versus host disease', 'graft vs host disease', 'gvhd', 'graft-vs-host disease']",graft-versus-host disease,0,['C0018133'],67,0.0003943086258436129
+618,[196095],"['roux-en-y gastric bypass', 'roux en y gastric bypass', 'roux-en-y gastrojejunostomy']",roux-en-y gastric bypass,0,['C0585179'],73,0.00011309971254854241
+619,[9281],"['syphilis', 'neurosyphilis']",syphilis,0,['C0039128'],85,0.00033395691927579486
+620,[210775],['tace'],tace,0,['C0723595'],37,0.0001224784633288071
+621,[3010],"['dysmenorrhea', 'menstrual cramps', 'painful periods', 'menstrual pain']",dysmenorrhea,0,['C0013390'],118,0.00023510881164357831
+622,[30780],"['myomectomy', 'myomectomies', 'fibroidectomy', 'uterine myomectomy']",myomectomy,0,['C0195309'],87,0.00011732399065248328
+623,[12982],"['h pylori', 'helicobacter pylori']",h pylori,0,['C0079488'],58,0.0010642876670237961
+624,[4491],"['genital herpes', 'genital herpes simplex']",genital herpes,0,['C0019342'],85,0.00014955651266982612
+625,[238988],"['ileus', 'bowel ileus']",ileus,0,['C1258215'],49,0.00013827470326899816
+626,[8931],"['sci', 'spinal cord injury', 'spinal cord injuries', 'spinal cord trauma']",spinal cord injury,0,['C0037929'],190,4.132965425734482e-05
+627,[6717],"['omeprazole', 'omeprazol']",omeprazole,1,['C0028978'],12,0.003232810164312897
+628,[9523],"['levothyroxine', 'thyroxine', 'levothyroxin']",levothyroxine,1,['C0040165'],25,0.0013880039121082187
+629,[52818],"['intra-abdominal abscesses', 'abdominal abscess', 'intra-abdominal abscess', 'abdominal abscesses', 'abdomen abscess', 'intra abdominal abscess']",intra-abdominal abscesses,0,['C0243001'],77,5.5658064230105895e-05
+630,"[53720, 53737]","['left inguinal hernia', 'right inguinal hernia']",left inguinal hernia,0,"['C0262537', 'C0262617']",111,0.0001952811229343013
+631,[88209],"['colorectal cancer', 'colon cancer']",colon cancer,1,['C0346629'],37,0.0001151734490722952
+632,"[169422, 169423]","['foot infection', 'toe infection', 'foot infections', 'infection of foot']",foot infection,0,"['C0555972', 'C0555973']",172,0.00011427739008055017
+633,[286927],"[""sjogren's"", ""sjogren's syndrome"", ""sjogren's disease"", 'sjogrens syndrome']",sjogren's,0,['C1527336'],28,1.3483554351972913e-05
+634,[206479],['choledocholithiasis'],choledocholithiasis,0,['C0701818'],31,3.511697858124589e-05
+635,[4675],['hypercalcemia'],hypercalcemia,0,['C0020437'],25,0.00035124659086889433
+636,[52521],"['thigh pain', 'meralgia', 'pain in the thigh']",thigh pain,0,['C0241374'],14,0.00030357625250805847
+637,[5318],['lactose intolerance'],lactose intolerance,0,['C0022951'],192,0.000255752304034352
+638,[2568],"['dental caries', 'cavities', 'cavity', 'caries']",dental caries,0,['C0011334'],182,0.0012992855380303012
+639,[163280],"['dental abscess', 'tooth abscess', 'tooth abscesses']",dental abscess,0,['C0518988'],77,5.473640355288244e-05
+640,[4304],"['ASD', 'atrial septal defect', 'atrial septal defects']",atrial septal defect,0,['C0018817'],131,0.00012391215771559918
+641,"[216449, 54674]","['rotator cuff injury', 'rotator cuff tear', 'rotator cuff tears', 'rotator cuff injuries']",rotator cuff injury,0,"['C0851122', 'C0263912']",163,0.0005733668140797492
+642,[59138],['cervical stenosis'],cervical stenosis,0,['C0269199'],74,0.00011148680636340131
+643,[52245],['elbow pain'],elbow pain,0,['C0239266'],14,0.00023769458187689965
+644,[40510],['wrist pain'],wrist pain,0,['C0221785'],14,0.0003572971225369632
+645,[93445],['alcoholic pancreatitis'],alcoholic pancreatitis,0,['C0376670'],31,2.7914371066647716e-05
+646,[3923],"['gangrene', 'gangrenous']",gangrene,0,['C0017086'],193,0.0001402972364217941
+647,[687],"['antisocial personality disorder', 'antisocial personality', 'sociopath', 'sociopathy']",antisocial personality disorder,0,['C0003431'],9,7.957003846695912e-05
+648,[471],['amiodarone'],amiodarone,1,['C0002598'],6,0.0011381655974193842
+649,[19036],"['thrombectomy', 'thrombectomies']",thrombectomy,0,['C0162578'],20,0.00016297179586052322
+650,[52526],"['tick bite', 'tick bites', 'tick exposure']",tick bite,1,['C0241407'],158,3.859027391115285e-05
+651,[13204],"['antiphospholipid antibody syndrome', 'antiphospholipid syndrome', 'anti-phospholipid syndrome', 'anti-phospholipid antibody syndrome', 'anticardiolipin syndrome']",antiphospholipid antibody syndrome,0,['C0085278'],194,9.976976830944006e-05
+652,[122249],"['rigors', 'rigor', 'shaking chills', 'rigoring']",rigors,0,['C0424790'],71,0.00017074617435080633
+653,[57803],"['blood per rectum', 'rectal bleed', 'bleeding per rectum', 'bleeding rectal']",blood per rectum,0,['C0267596'],121,0.001313272592196683
+654,[205835],"['ear infections', 'ear infection', 'otitis']",ear infections,0,['C0699744'],195,0.00027170215408741364
+655,[5578],"['liver abscess', 'hepatic abscess', 'liver abscesses', 'hepatic abscesses']",liver abscess,0,['C0023885'],77,4.057867148331088e-05
+656,[162886],"['lymphadenopathy', 'adenopathy', 'swollen lymph nodes']",lymphadenopathy,0,['C0497156'],196,0.0019505753488112305
+657,[161886],['vicodin'],vicodin,1,['C0483514'],18,0.0017115750809749307
+658,"[4497, 7724]","['shingles', 'zoster', 'herpes zoster', 'postherpetic neuralgia', 'post-herpetic neuralgia']",shingles,0,"['C0019360', 'C0032768']",116,0.0009954959381432557
+659,[9536],"['costochondritis', 'costochrondritis']",costochondritis,0,['C0040213'],197,0.00021962832582428783
+660,[2455],"['CF', 'cystic fibrosis', 'fibrocystic disease']",cystic fibrosis,0,['C0010674'],11,0.0003400927898954585
+661,[3152],['empyema'],empyema,0,['C0014009'],77,9.47433040605084e-05
+662,[7014],"['oophorectomy', 'ovary removal', 'oophorectomies', 'ovariectomy']",oophorectomy,0,['C0029936'],198,0.00017182997903605985
+663,"[3794, 312181, 312986, 313023]","['foot pain', 'left foot pain', 'bilateral foot pain', 'right foot pain', 'foot pains', 'pain in foot', 'pain in the left foot', 'pain in left foot']",foot pain,0,"['C0016512', 'C2016977', 'C2126424', 'C2141243']",14,0.0011621117072368756
+664,[8291],"['retinal detachment', 'detached retina', 'retinal detachments']",retinal detachment,0,['C0035305'],95,9.686824395521804e-05
+665,[6258],"['myopathy', 'muscle disease', 'muscular disorder', 'muscle disorder']",myopathy,0,['C0026848'],149,0.0002569214476712003
+666,[7532],"['pilonidal cyst', 'pilonidal cysts']",pilonidal cyst,0,['C0031925'],96,6.22035618174244e-05
+667,[13174],"['GDM', 'gestational diabetes mellitus', 'gestational diabetes']",gestational diabetes mellitus,0,['C0085207'],1,0.00015387466362052124
+668,"[8240, 4727]","['renal artery stenosis', 'renal hypertension']",renal artery stenosis,0,"['C0035067', 'C0020544']",24,0.00011977321856325305
+669,[822],['asbestosis'],asbestosis,0,['C0003949'],11,5.525697115761051e-05
+670,[4871],"['immunosuppressants', 'immunosuppressive', 'immunosuppressives', 'immunosuppressive agents', 'immune suppressants']",immunosuppressants,0,['C0021081'],28,0.0001944618689989916
+671,[1501],"['thrush', 'candidiasis', 'candidal infection']",thrush,0,['C0006840'],12,0.0004587139326121822
+672,[52250],"['candidal esophagitis', 'esophageal candidiasis']",candidal esophagitis,0,['C0239295'],12,4.020318009629391e-05
+673,[3640],['fentanyl'],fentanyl,1,['C0015846'],18,0.0009184690004338207
+674,[239524],"['sarcoma', 'sarcomas', 'soft tissue sarcoma']",sarcoma,0,['C1261473'],37,0.000229032678290031
+675,[4917],"['mono', 'mononucleosis']",mono,0,['C0021345'],200,0.00023755803955434804
+676,[88478],"['cancer metastatic', 'metastatic cancer']",metastatic cancer,1,['C0346957'],37,0.0
+677,[10124],"['vfib', 'ventricular fibrillation']",vfib,0,['C0042510'],6,3.859027391115285e-05
+678,[205658],['valium'],valium,1,['C0699187'],18,0.0017557209206349028
+679,[866],"['astrocytoma', 'astrocytomas']",astrocytoma,0,['C0004114'],37,7.426195567776472e-05
+680,[239405],"['strictures', 'constriction', 'stenoses', 'stenosi']",strictures,0,['C1261287'],156,0.003127049601601505
+681,[9966],"['urethral stricture', 'urethral strictures']",urethral stricture,0,['C0041974'],199,3.7967299564511066e-05
+682,[78204],"['bleeding ulcer', 'bleeding ulcers', 'ulcer bleed', 'hemorrhagic ulcer']",bleeding ulcer,0,['C0333291'],81,3.4604944871677315e-05
+683,"[317484, 330845]","['pradaxa', 'dabigatran']",pradaxa,1,"['C2348066', 'C2940579']",10,0.00017339168185024405
+684,[7098],['pancreatic insufficiency'],pancreatic insufficiency,0,['C0030293'],31,5.3157632948379276e-05
+685,[57340],"[""schatzki's ring"", 'schatzki ring', 'esophageal ring', 'esophageal rings', 'schatzki']",schatzki's ring,0,['C0267081'],110,3.114871733208932e-05
+686,[774],['chiari malformation'],chiari malformation,0,['C0003803'],50,2.6463608889536702e-05
+687,"[4131, 84861]","['multinodular goiter', 'goiter', 'thyromegaly', 'multinodular thyroid', 'thyroid goiter', 'enlarged thyroid', 'enlarged thyroid gland']",multinodular goiter,0,"['C0018021', 'C0342208']",25,0.0008133570137545483
+688,[4735],"['hypertrophic', 'enlargement', 'hypertrophy', 'enlargements']",hypertrophic,1,['C0020564'],8,0.0011142280214970523
+689,[7871],"['prolapse', 'ptosis']",prolapse,0,['C0033377'],184,0.0005250991030577501
+690,[4066],"['FSGs', 'focal sclerosing glomerulonephritis', 'focal glomerulosclerosis']",FSGs,0,['C0017668'],24,0.00010955814605735964
+691,[8252],"['replacement', 'replacements', 'reimplantation']",replacement,1,['C0035139'],98,0.00010875595991236884
+692,[8128],"['quadriplegia', 'quadraplegia']",quadriplegia,0,['C0034372'],124,3.770274881456729e-05
+693,[18986],['prozac'],prozac,1,['C0162373'],18,0.0018627274320395792
+694,[1415],['bursitis'],bursitis,0,['C0006444'],201,0.0004752440875360882
+695,[3931],"['gastrectomy', 'gastric resection']",gastrectomy,0,['C0017118'],177,7.583219238710843e-05
+696,[22451],"['cervical fusion', 'cervical spine fusion', 'cervical spinal fusion', 'cervical arthrodesis', 'cervical fusions']",cervical fusion,0,['C0186010'],86,8.123414802305704e-05
+697,[78801],"['dysplasia', 'dysplastic']",dysplasia,0,['C0334044'],202,0.0003432161955238269
+698,[4153],"['gonorrhea', 'gonococcal', 'gonococcal infection']",gonorrhea,0,['C0018081'],85,0.00031734142540029416
+699,[6382],['narcolepsy'],narcolepsy,0,['C0027404'],101,8.516827369157573e-05
+700,[30938],"['ovarian cystectomy', 'ovarian cyst removal']",ovarian cystectomy,0,['C0195488'],198,5.302109062582766e-05
+701,[7968],"['pseudogout', 'pseudo-gout', 'chondrocalcinosis']",pseudogout,0,['C0033802'],46,0.00020269707782788644
+702,[213550],['brain mass'],brain mass,0,['C0742078'],37,2.450934689801658e-05
+703,[28428],"['bowel surgeries', 'bowel surgery']",bowel surgeries,0,['C0192573'],171,3.1532742614265764e-05
+704,[52266],"['facial numbness', 'face numbness']",facial numbness,0,['C0239511'],34,0.00010883276496880414
+705,[330675],['glucose-6-phosphate dehydrogenase deficiency'],glucose-6-phosphate dehydrogenase deficiency,0,['C2939465'],204,6.970485566260426e-05
+706,[2008],"['scarring', 'scarred']",scarring,0,['C0008767'],95,0.0
+707,[8691],"['short gut syndrome', 'short bowel syndrome']",short gut syndrome,0,['C0036992'],203,5.78768769715698e-05
+708,"[292219, 9526]","['tibia fracture', 'tibial fracture', 'leg fracture', 'lower extremity fracture', 'broken leg', 'lower leg fracture']",tibia fracture,0,"['C1542178', 'C0040185']",92,0.0001286228678436302
+709,[66934],"['nephrostomy', 'nephrostomies']",nephrostomy,0,['C0278314'],23,0.0002234685786460523
+710,[13041],"['vertebral fracture', 'vertebral fractures', 'spine fracture', 'spinal fracture', 'spinal fractures']",vertebral fracture,0,['C0080179'],92,0.00024072411465851382
+711,[7766],"['preeclampsia', 'pre-eclampsia']",preeclampsia,0,['C0032914'],118,0.00010806471440445125
+712,[9384],"['testicular pain', 'testicle pain']",testicular pain,0,['C0039591'],14,9.453849057668096e-05
+713,[4487],"['umbilical hernia repair', 'umbilical herniorrhaphy']",umbilical hernia repair,0,['C0019333'],111,7.860570831393827e-05
+714,[2450],['cystectomy'],cystectomy,0,['C0010651'],198,7.399740492782096e-05
+715,[13520],['hypogammaglobulinemia'],hypogammaglobulinemia,0,['C0086438'],205,0.0001134496022500809
+716,"[13360, 5378, 4286]","['lbbb', 'heart block', 'rbbb', 'left bundle branch block', 'right bundle-branch block', 'right bundle branch block', 'left bundle-branch block']",bundle-branch block,0,"['C0085615', 'C0023211', 'C0018794']",8,0.0005235117985580874
+717,[14690],"['complete heart block', '3rd degree heart block', 'complete av block', 'third degree heart block']",complete heart block,0,['C0151517'],8,0.00011239993314546534
+718,[911],"['autism', 'autistic disorder', 'autistic', 'childhood autism']",autism,0,['C0004352'],50,9.06299665936407e-05
+719,[2274],['conversion disorder'],conversion disorder,0,['C0009946'],9,4.743992319153001e-05
+720,[663],"['aed', 'antiepileptics', 'antiepileptic drug', 'antiepileptic', 'anti-epileptic']",antiepileptics,0,['C0003299'],19,0.0003502737268207141
+721,[514],"['ALS', 'amyotrophic lateral sclerosis']",amyotrophic lateral sclerosis,0,['C0002736'],33,9.320720293180262e-05
+722,[2700],['diabetic retinopathy'],diabetic retinopathy,0,['C0011884'],1,0.0002730675773129299
+723,[6753],"['optic neuritis', 'optic nerve inflammation']",optic neuritis,0,['C0029134'],80,7.298187140384325e-05
+724,[189505],"['heel ulcer', 'heel ulcers']",heel ulcer,0,['C0577718'],81,0.00013857338959957983
+725,[52529],"['toe pain', 'pain in toe']",toe pain,0,['C0241416'],14,0.00016482365111012963
+726,"[14280, 8631]","['sepsis', 'urosepsis', 'septicemia', 'urinary sepsis']",sepsis,0,"['C0149801', 'C0036690']",29,0.00017772690059125813
+727,[78142],['septic emboli'],septic emboli,0,['C0333222'],20,3.496336846837533e-05
+728,[8688],['septic shock'],septic shock,0,['C0036983'],29,3.7404062483985606e-05
+729,[7089],['pancreatectomy'],pancreatectomy,0,['C0030279'],191,5.237251459370744e-05
+730,[9489],['thrombophlebitis'],thrombophlebitis,0,['C0040046'],21,9.468356679439203e-05
+731,[2184],"['cvid', 'common variable immune deficiency', 'common variable immunodeficiency']",cvid,0,['C0009447'],28,8.003940270073033e-05
+732,[3547],"['facial pain', 'face pain']",facial pain,0,['C0015468'],34,0.00022753071274196317
+733,[3180],"['carotid endarterectomy', 'carotid endarterectomies']",carotid endarterectomy,0,['C0014099'],93,9.441901604444827e-05
+734,[13171],['esophagectomy'],esophagectomy,0,['C0085198'],177,4.92235072798606e-05
+735,[14187],"['pelvic fracture', 'pelvis fracture', 'fractured pelvis', 'pelvic fractures']",pelvic fracture,0,['C0149531'],92,6.449064572016411e-05
+736,[8934],"['spine disease', 'spinal disease']",spine disease,0,['C0037933'],190,8.06709109425316e-05
+737,[3160],"['encephalitis', 'enceph']",encephalitis,0,['C0014038'],50,0.0001073564011062147
+738,[10236],"['volvulus', 'bowel volvulus']",volvulus,0,['C0042961'],49,3.204477632383435e-05
+739,[14217],['bicuspid aortic valve'],bicuspid aortic valve,0,['C0149630'],93,5.190315035993624e-05
+740,[78499],"['atrophy', 'atrophic']",atrophy,0,['C0333641'],149,0.0009415702546305237
+741,[216253],"['thrombocytosis', 'thrombocythemia']",thrombocytosis,0,['C0836924'],123,0.00012061807418404121
+742,[4764],['hypogonadism'],hypogonadism,0,['C0020619'],207,0.0001812940687679193
+743,[104185],"['ruptured ovarian cyst', 'ovarian cyst rupture']",ruptured ovarian cyst,0,['C0404478'],96,2.5046982293063605e-05
+744,[9200],['superior vena cava syndrome'],superior vena cava syndrome,0,['C0038833'],21,5.8226766673108335e-05
+745,"[312297, 52316]","['left hand pain', 'hand pain', 'pain in left hand']",left hand pain,0,"['C2032351', 'C0239833']",14,0.0003404085440163592
+746,[1330],['breast diseases'],breast diseases,1,['C0006145'],37,2.7692489792501325e-05
+747,[4934],"['inflammatory bowel disease', 'irritable bowel disease']",inflammatory bowel disease,1,['C0021390'],58,0.00023009941518496558
+748,[46267],"['epidural', 'epidural space']",epidural,0,['C0228134'],44,0.0
+749,[121612],['hearing voices'],hearing voices,0,['C0424068'],9,0.00020622157652875025
+750,[5916],"[""meniere's disease"", 'meniere disease', 'menieres disease']",meniere's disease,0,['C0025281'],51,5.615303014935553e-06
+751,[2471],"['cmv', 'cytomegalovirus', 'cytomegalovirus infection']",cytomegalovirus,0,['C0010823'],208,0.0005675722992664647
+752,[31297],"['craniectomy', 'craniectomies']",craniectomy,0,['C0195897'],122,2.7922904961807203e-05
+753,[8503],"['ks', ""kaposi's sarcoma"", 'kaposi sarcoma', 'kaposis sarcoma']",kaposi's sarcoma,0,['C0036220'],37,0.00021342418404334844
+754,[1836],"['chicken pox', 'chickenpox', 'varicella', 'varicella infection']",chicken pox,0,['C0008049'],116,0.0002545490248168658
+755,[27855],"['breast reduction', 'breast reductions']",breast reduction,0,['C0191922'],157,0.0
+756,[83988],['eosinophilic esophagitis'],eosinophilic esophagitis,0,['C0341106'],12,1.6632561665819753e-05
+757,[4920],['infertility'],infertility,0,['C0021359'],118,0.0016481170365690635
+758,"[3224, 52967]","['radiation enteritis', 'enteritis', 'small intestine inflammation', 'radiation induced enteritis']",enteritis,0,"['C0014335', 'C0259795']",58,0.00011094063707319485
+759,[73179],['lupus anticoagulant'],lupus anticoagulant,1,['C0311370'],84,0.0
+760,[10872],"['bnp', 'brain natriuretic peptide']",brain natriuretic peptide,0,['C0054015'],8,0.0
+761,[22254],['sternotomy'],sternotomy,0,['C0185792'],211,0.00012397189498171548
+762,[78206],"['healing ulcer', 'healing ulcers', 'heal ulcers', 'heal ulcer']",healing ulcer,0,['C0333293'],81,6.683746688902017e-05
+763,[2906],"['diverticula', 'diverticulum']",diverticula,0,['C0012817'],49,0.00020211677295704203
+764,[77481],"['fissure', 'fissures']",fissure,0,['C0332469'],188,0.0003766946662344533
+765,[255],"['corticosteroid', 'corticosteroids']",corticosteroid,0,['C0001617'],61,0.0004119225854527724
+766,[9365],"['tendonitis', 'tendinitis']",tendonitis,0,['C0039503'],209,0.0005728889159508188
+767,[67079],"['hormonal therapy', 'hormone therapy', 'hormone treatment', 'hormone therapies']",hormonal therapy,0,['C0279025'],210,0.00027914371066647714
+768,[22616],"['hip arthroplasty', 'hip repair']",hip arthroplasty,0,['C0186193'],92,3.445986865396621e-05
+769,[5811],"['mastocytosis', 'mast cell activation syndrome']",mastocytosis,0,['C0024899'],37,7.75816408948011e-05
+770,[8561],"['sclerosis', 'sclerotic']",sclerosis,0,['C0036429'],53,0.0005272496446379382
+771,[164996],['stent removal'],stent removal,0,['C0522778'],100,5.9771401696973584e-05
+772,[12954],"['desmoid tumor', 'desmoid tumors', 'desmoids', 'desmoid']",desmoid tumor,0,['C0079218'],37,7.289653245224849e-05
+773,[4530],"['hip dislocations', 'hip dislocation', 'dislocated hip']",hip dislocations,0,['C0019554'],92,5.370380223858578e-05
+774,[109087],"['knee osteoarthritis', 'osteoarthritis of knees', 'osteoarthritis of the knee', 'oa knee']",knee osteoarthritis,0,['C0409959'],46,0.00022563618801655933
+775,[6480],['nephrotic syndrome'],nephrotic syndrome,0,['C0027726'],24,7.802540344309387e-05
+776,[246055],"['mild cognitive impairment', 'mild cognitive disorder']",mild cognitive impairment,0,['C1270972'],50,5.7492851689393345e-05
+777,[1267],['myelopathy'],myelopathy,0,['C0005956'],189,0.0
+778,[4352],"['blood disorder', 'blood disorders', 'blood dyscrasia', 'hematologic disorders', 'blood dyscrasias', 'hematologic disorder']",blood disorder,0,['C0018939'],213,6.381646800256545e-05
+779,[84167],"['enterocutaneous fistula', 'enterocutaneous fistulas']",enterocutaneous fistula,0,['C0341318'],90,4.435918703895898e-05
+780,[2898],"['diuresis', 'urinary flow']",diuresis,0,['C0012797'],145,0.0005404686482399674
+781,[23067],['rotator cuff repair'],rotator cuff repair,0,['C0186666'],163,0.00014715848813001318
+782,[67182],"['lumbar disc herniation', 'herniated lumbar disc', 'bulging lumbar disc', 'slipped lumbar disc']",lumbar disc herniation,0,['C0281899'],86,2.74108712522386e-05
+783,[9479],"['thoracotomy', 'thoracostomy']",thoracotomy,0,['C0039991'],147,0.0001244071236348488
+784,[1614],['cardiovascular disease'],cardiovascular disease,0,['C0007222'],8,0.00014569919205774273
+785,[6513],"['acoustic neuroma', 'vestibular schwannoma']",acoustic neuroma,0,['C0027859'],37,3.116578512240827e-05
+786,[203671],['tardive dyskinesia'],tardive dyskinesia,0,['C0686347'],50,0.00013631190738231855
+787,[9347],"['telangiectasia', 'telangiectasis', 'telangiectasias']",telangiectasia,0,['C0039446'],214,0.0003754060480653724
+788,[1061],"['benign prostatic hypertrophy', 'bph', 'prostatic hypertrophy', 'prostate hypertrophy']",benign prostatic hypertrophy,0,['C0005001'],59,0.00010973735785570864
+789,[9417],['thalassemia'],thalassemia,0,['C0039730'],212,4.631344903047911e-05
+790,[10048],['vaginal cancer'],vaginal cancer,0,['C0042237'],37,1.225467344900829e-05
+791,[5554],"['lipoma', 'lipomas', 'fatty tumor']",lipoma,0,['C0023798'],37,0.00033708032490416327
+792,[10206],"['vitamin b12 deficiency', 'vitamin b12 defic']",vitamin b12 deficiency,0,['C0042847'],180,0.00016521621028746554
+793,[870],"['atelectasis', 'lung collapse', 'collapsed lung']",atelectasis,0,['C0004144'],175,0.0005202774522926459
+794,[2687],"['di', 'diabetes insipidus']",diabetes insipidus,0,['C0011848'],1,0.00012134345527259673
+795,[14247],['laxative abuse'],laxative abuse,0,['C0149720'],215,5.63493097380235e-05
+796,[17103],['radiation cystitis'],radiation cystitis,0,['C0156270'],29,2.4910439970511985e-05
+797,[13353],"['urinary urgency', 'urinary frequency/urgency', 'urgency with urination']",urinary urgency,0,['C0085606'],29,0.00022367339212987973
+798,[52033],"['necrotizing fasciitis', 'necrotizing fascitis', 'necrotizing myositis']",necrotizing fasciitis,0,['C0238124'],30,2.2751364495164418e-05
+799,[5813],"['breast pain', 'mastalgia', 'mastodynia']",breast pain,0,['C0024902'],14,0.0002322670245554726
+800,[8321],['rhabdomyolysis'],rhabdomyolysis,0,['C0035410'],149,6.825409348549326e-05
+801,[7628],"['pneumonectomy', 'pneumonectomies']",pneumonectomy,0,['C0032284'],218,2.7863167695690858e-05
+802,[10015],"['uterine prolapse', 'prolapsed uterus']",uterine prolapse,0,['C0042140'],184,7.532015867753982e-05
+803,[3248],"['eosinophilia', 'eosinophilic granulomatosis']",eosinophilia,0,['C0014457'],217,0.0002574420152759284
+804,[6468],['nephritis'],nephritis,0,['C0027697'],23,0.00013072220605286146
+805,[21702],"['fasciotomy', 'fasciotomies']",fasciotomy,0,['C0185188'],216,4.3830085539071444e-05
+806,[4393],"['hemophilia', 'factor viii deficiency', 'hemophilia a', 'hema']",hemophilia,0,['C0019069'],45,5.0716938932768985e-05
+807,[48855],"['buttock pain', 'buttocks pain']",buttock pain,0,['C0231710'],14,0.0002407326485536733
+808,[53696],"['neck fracture', 'cervical fracture', 'cervical spine fracture']",neck fracture,0,['C0262414'],92,3.9059638144924056e-05
+809,[308],['agoraphobia'],agoraphobia,0,['C0001818'],9,0.00015069152072603648
+810,[101310],['cadaveric renal transplant'],cadaveric renal transplant,0,['C0401176'],67,9.476037185082736e-05
+811,[9485],"['essential thrombocytosis', 'essential thrombocythemia', 'idiopathic thrombocytosis']",essential thrombocytosis,0,['C0040028'],123,5.6042089512282335e-05
+812,[7870],"['prolactinoma', 'prolactin secreting pituitary adenoma', 'pituitary prolactinoma']",prolactinoma,0,['C0033375'],37,4.594649153862162e-05
+813,[15604],['anal cancer'],anal cancer,0,['C0153446'],37,0.0
+814,[4407],['hemorrhoidectomy'],hemorrhoidectomy,0,['C0019108'],88,8.594485815108809e-05
+815,[1447],"['calcinosis', 'calcification']",calcinosis,0,['C0006663'],26,0.0005786834307641032
+816,[4061],"['glomerulonephritis', 'glomerular nephritis']",glomerulonephritis,0,['C0017658'],23,0.00010601657956617688
+817,[13207],"['addiction', 'addictions']",addiction,0,['C0085281'],18,0.0005718221790558841
+818,[213501],['multiple abscesses'],multiple abscesses,0,['C0740690'],77,8.832581490058203e-06
+819,[9952],"['ureteral stone', 'ureter stone', 'ureterolithiasis']",ureteral stone,0,['C0041952'],27,5.6776004495997324e-05
+820,[8173],"['radial fracture', 'radius fracture', 'radial fractures']",radius fracture,0,['C0034628'],92,0.00014097141413939272
+821,[3783],"['food allergies', 'food allergy']",food allergies,0,['C0016470'],76,0.00012660886858599374
+822,[103441],['hypotonic bladder'],hypotonic bladder,0,['C0403647'],29,3.37003519847728e-05
+823,[224933],"['invasive ductal carcinoma', 'infiltrating ductal carcinoma', 'invasive ductal carcinoma of the breast']",invasive ductal carcinoma,0,['C1134719'],37,0.00017078884382660368
+824,[52258],"['extremity numbness', 'limb numbness']",extremity numbness,0,['C0239375'],14,3.844519769344175e-05
+825,[157777],['cervical disc disease'],cervical disc disease,0,['C0477633'],86,4.775567731243064e-05
+826,[52315],['hand numbness'],hand numbness,0,['C0239832'],34,0.00012510690303792587
+827,[52361],"['liver mass', 'hepatic mass', 'liver masses']",liver mass,0,['C0240225'],32,4.765327057051692e-05
+828,[213481],['incarcerated hernia'],incarcerated hernia,0,['C0740406'],111,2.220519520495792e-05
+829,[9593],['tonsillitis'],tonsillitis,0,['C0040425'],153,3.5970368097193564e-05
+830,[5700],"[""waldenstrom's macroglobulinemia"", 'lymphoplasmacytic lymphoma', 'macroglobulinemia', 'waldenstrom macroglobulinemia', 'waldenstroms macroglobulinemia']",waldenstrom's macroglobulinemia,0,['C0024419'],219,7.221382083949037e-05
+831,[334454],['xarelto'],xarelto,1,['C3159309'],10,9.720106586643762e-06
+832,[29184],"['hepaticojejunostomy', 'hepatojejunostomy']",hepaticojejunostomy,0,['C0193425'],73,3.462201266199625e-05
+833,[172568],"['peanut allergy', 'peanut allergies', 'allergy to peanuts']",peanut allergy,0,['C0559470'],76,6.6223026437537836e-06
+834,[9105],['stuttering'],stuttering,0,['C0038506'],50,0.0001226576751271561
+835,[10022],['uveitis'],uveitis,0,['C0042164'],95,9.388138064940126e-05
+836,[58777],"['renal cyst', 'renal cysts']",renal cyst,0,['C0268800'],96,0.0
+837,[5936],"['menopausal', 'menopause']",menopausal,0,['C0025320'],118,0.0011567097516009268
+838,[58011],"['liver cysts', 'hepatic cyst', 'liver cyst', 'hepatic cysts']",liver cysts,0,['C0267834'],77,6.875759329990235e-05
+839,[13183],"['psoas abscess', 'psoas abscesses']",psoas abscess,0,['C0085222'],77,3.209597969479121e-05
+840,[9223],['eye surgery'],eye surgery,0,['C0038901'],95,0.00013889767761563997
+841,[2657],"['dermoid cyst', 'dermoid cysts', 'dermoid tumor', 'dermoids']",dermoid cyst,0,['C0011649'],96,7.173592271055968e-05
+842,[6311],"['myeloproliferative disorder', 'myeloproliferative disease', 'myeloproliferative neoplasm']",myeloproliferative disorder,0,['C0027022'],221,6.133310451115779e-05
+843,[119281],['diet controlled diabetes mellitus'],diet controlled diabetes mellitus,0,['C0421246'],1,6.65643822439169e-06
+844,[2999],['dysautonomia'],dysautonomia,0,['C0013363'],80,4.081762054777622e-05
+845,[7329],['pericardial window'],pericardial window,0,['C0031041'],106,2.498724502694727e-05
+846,[24732],"['ankle surgery', 'ankle surgeries']",ankle surgery,0,['C0188412'],132,6.065039289839967e-05
+847,[5732],['malaria'],malaria,0,['C0024530'],220,5.286748051295708e-05
+848,[9648],['tracheal stenosis'],tracheal stenosis,0,['C0040583'],93,2.79570405424451e-05
+849,[6519],"['neuromyelitis optica', ""devic's disease"", ""devic's neuromyelitis optica""]",neuromyelitis optica,0,['C0027873'],223,1.0479623255837174e-05
+850,[40066],['neuroendocrine tumor'],neuroendocrine tumor,0,['C0206754'],37,3.777955387100258e-05
+851,[103388],['chronic allograft nephropathy'],chronic allograft nephropathy,0,['C0403592'],67,2.545660926071848e-05
+852,[15607],['gallbladder cancer'],gallbladder cancer,0,['C0153452'],37,1.2587495360227875e-05
+853,[13351],"['polydypsia', 'polydipsia']",polydypsia,0,['C0085602'],126,0.00020614477147231497
+854,[1919],"['choledochal cyst', 'congenital choledochal cyst']",choledochal cyst,0,['C0008340'],96,8.277878304692231e-06
+855,[400446],['ureteral stricture'],ureteral stricture,0,['C3887590'],199,2.055815343917895e-05
+856,[9372],['tenosynovitis'],tenosynovitis,0,['C0039520'],201,0.00023104667754766744
+857,[52289],"['foot numbness', 'numbness foot', 'numbness in feet', 'feet numbness']",foot numbness,0,['C0239649'],14,6.619742475205944e-05
+858,[31926],['carpal tunnel release'],carpal tunnel release,0,['C0196576'],138,0.00018898310830660765
+859,[4753],['hypocalcemia'],hypocalcemia,0,['C0020598'],25,9.522973608459855e-05
+860,[324313],['bilateral hip replacement'],bilateral hip replacement,0,['C2732563'],98,1.71957987463452e-05
+861,[82940],"['congenital deafness', 'congenital hearing loss']",congenital deafness,0,['C0339789'],222,2.3638889591749968e-05
+862,[715],['aortic diseases'],aortic diseases,1,['C0003493'],93,5.854252079400897e-06
+863,[6766],"['orchiectomy', 'castration']",orchiectomy,0,['C0029189'],224,6.510508617164642e-05
+864,[25865],['artery bypass graft'],artery bypass graft,0,['C0189695'],3,0.00017455229159193286
+865,[67071],"['gastric adenocarcinoma', 'adenocarcinoma of stomach', 'stomach adenocarcinoma']",gastric adenocarcinoma,0,['C0278701'],37,1.6692298931936085e-05
+866,[3276],['epididymitis'],epididymitis,0,['C0014534'],29,7.29306680328864e-05
+867,[812],"['arthroplasty', 'arthroplasties']",arthroplasty,0,['C0003893'],92,0.00017890457812326591
+868,[9638],['toxoplasmosis'],toxoplasmosis,0,['C0040558'],225,0.0001012802677526674
+869,"[67, 14271]","['abscess', 'abscesses', 'skin abscesses', 'skin abscess']",abscess,0,"['C0000833', 'C0149777']",77,0.0016283781370651945
+870,"[57779, 7316]","['perirectal abscess', 'perianal abscess', 'perirectal abscesses', 'peri-rectal abscess']",perirectal abscess,0,"['C0267566', 'C0031019']",77,9.73546759793082e-05
+871,[39999],"['adrenal adenoma', 'benign adrenal adenoma']",adrenal adenoma,0,['C0206667'],37,7.226502421044722e-05
+872,[14671],['breast abscess'],breast abscess,0,['C0151463'],77,0.0
+873,[82021],"['vertebral artery dissection', 'vertebral artery dissections']",vertebral artery dissection,0,['C0338586'],93,1.2118131126456667e-05
+874,[7615],"['pleurisy', 'pleuritis']",pleurisy,0,['C0032231'],77,6.0684528479037574e-05
+875,[94618],"['cidp', 'chronic inflammatory demyelinating polyneuropathy']",chronic inflammatory demyelinating polyneuropathy,0,['C0393819'],80,5.87473342778364e-05
+876,[155098],"['diarrhea and vomiting', 'vomiting diarrhea']",diarrhea and vomiting,0,['C0474496'],43,4.001543440278543e-05
+877,[103393],['failed renal transplant'],failed renal transplant,0,['C0403597'],67,1.99949163586535e-05
+878,[14346],"['rectal adenocarcinoma', 'adenocarcinoma of the rectum']",rectal adenocarcinoma,0,['C0149978'],37,3.5134046371564865e-05
+879,[273111],['vertebroplasty'],vertebroplasty,0,['C1303192'],86,5.353312433539624e-05
+880,[101030],"['rectal ulcer', 'rectal ulcers', 'rectal ulceration']",rectal ulcer,0,['C0400839'],81,1.677763788353085e-05
+881,[40469],"['brain lesion', 'brain lesions']",brain lesion,0,['C0221505'],37,8.83343487957415e-05
+882,[217441],"['overactive bladder', 'hyperactive bladder']",overactive bladder,0,['C0878773'],29,4.99488883684161e-05
+883,[14855],"['esophageal ulcer', 'esophageal ulcers', 'esophageal ulcerations']",esophageal ulcer,0,['C0151970'],81,2.093364482619592e-05
+884,[48809],"['scapular pain', 'scapula pain']",scapular pain,0,['C0231655'],14,4.173074732984021e-05
+885,[52358],"['lip swelling', 'swelling of lips', 'swollen lips']",lip swelling,0,['C0240211'],42,8.201926637772889e-05
+886,[51684],"['tongue swelling', 'swollen tongue', 'swelling of tongue']",tongue swelling,1,['C0236068'],42,7.047290622695715e-05
+887,"[17504, 14223]","['cervical spondylosis', 'cervical myelopathy']",cervical spondylosis,0,"['C0158241', 'C0149645']",189,6.382500189772493e-05
+888,[14262],['plantar fasciitis'],plantar fasciitis,0,['C0149756'],30,0.0002851003694877917
+889,[2247],"['connective tissue disorder', 'connective tissue disease']",connective tissue disorder,0,['C0009782'],53,4.4879754643687046e-05
+890,[216813],"['chronic graft-versus-host disease', 'chronic graft versus host disease']",chronic graft-versus-host disease,0,['C0867389'],67,5.588847939941177e-05
+891,[3371],"['hiatal hernia repair', 'hiatal herniorrhaphy']",hiatal hernia repair,0,['C0014857'],111,1.653015492390603e-05
+892,[224954],"['patellar dislocations', 'patellar dislocation', 'patella dislocation']",patellar dislocations,0,['C1135812'],163,1.5830375520828957e-05
+893,[4014],"['giardia', 'giardiasis', 'giardia infection']",giardia,0,['C0017536'],47,8.748949317495335e-05
+894,[107823],"['lumbar spine surgery', 'lumbar spine surgeries']",lumbar spine surgery,0,['C0408578'],170,1.0146801344617593e-05
+895,[3832],"['stress fracture', 'stress reaction', 'stress fractures']",stress fracture,0,['C0016664'],92,0.00011104304381510856
+896,[9089],"['artery stenosis', 'arterial stenosis']",artery stenosis,0,['C0038449'],2,7.484226054860915e-05
+897,[14670],['trochanteric bursitis'],trochanteric bursitis,0,['C0151451'],201,0.0002279147380241396
+898,[286692],['superficial thrombophlebitis'],superficial thrombophlebitis,0,['C1510431'],21,4.805436364301232e-05
+899,[6495],"['neuropathic pain', 'neuralgia']",neuropathic pain,0,['C0027796'],80,0.0001550950106283264
+900,[7458],['phlebitis'],phlebitis,0,['C0031542'],21,0.00013107209575439994
+901,[189495],['e coli urinary tract infection'],e coli urinary tract infection,0,['C0577708'],29,9.122733925480406e-06
+902,[56674],"['solitary kidney', 'single kidney', 'congenital single kidney']",solitary kidney,0,['C0266294'],26,2.4176524986797e-05
+903,[25743],['pleurodesis'],pleurodesis,0,['C0189557'],175,4.829331270747766e-05
+904,[15618],['peritoneal cancer'],peritoneal cancer,0,['C0153467'],37,1.868923039925359e-05
+905,[3254],['ependymoma'],ependymoma,0,['C0014474'],37,1.316780023107228e-05
+906,[287107],"['smoldering myeloma', 'smoldering multiple myeloma']",smoldering myeloma,0,['C1531608'],37,3.330779280743688e-05
+907,[1008],"[""bartholin's cyst"", 'bartholin cysts', 'bartholin cyst', ""bartholin's cysts"", ""bartholin's gland cyst""]",bartholin's cyst,0,['C0004767'],96,1.3219003602029138e-05
+908,[1172],"['bladder stone', 'bladder stones']",bladder stone,0,['C0005683'],27,4.465787336954066e-05
+909,"[327832, 5322]","['laminectomy', 'laminectomies', 'cervical laminectomy', 'spinal laminectomy']",laminectomy,0,"['C2919897', 'C0022983']",107,0.0006188866108603971
+910,[145119],['urolithiasis'],urolithiasis,0,['C0451641'],27,1.692271410124195e-05
+911,[330299],['ulcerative proctitis'],ulcerative proctitis,0,['C2937222'],58,1.4302808287282654e-05
+912,[213957],"['mitochondrial disorder', 'mitochondrial disease']",mitochondrial disorder,0,['C0751651'],226,4.869440577997306e-05
+913,[551],['autoimmune hemolytic anemia'],autoimmune hemolytic anemia,0,['C0002880'],39,3.41355806379061e-05
+914,[78079],['hemorrhagic cyst'],hemorrhagic cyst,0,['C0333145'],96,4.153446774117225e-05
+915,[4699],['hypernatremia'],hypernatremia,0,['C0020488'],113,4.583555090154842e-05
+916,[86367],"['abscess drainage', 'drainage of abscess']",abscess drainage,0,['C0344096'],77,2.6719625744321013e-05
+917,[1316],['chronic encephalopathy'],chronic encephalopathy,0,['C0006109'],50,1.9969314673175067e-06
+918,[239659],['eosinophilic gastroenteritis'],eosinophilic gastroenteritis,0,['C1262481'],58,1.0411352094561361e-05
+919,"[14265, 53975]","['rectal abscess', 'buttock abscess', 'gluteal abscess', 'abscess of buttock']",rectal abscess,0,"['C0149770', 'C0263118']",77,5.2534658601737487e-05
+920,[1603],"['pericardial tamponade', 'cardiac tamponade']",pericardial tamponade,0,['C0007177'],106,1.6077858480453773e-05
+921,[7196],"['parotid tumor', 'parotid gland tumor']",parotid tumor,0,['C0030581'],37,1.5241536754825076e-05
+922,[714],"['aortic coarctation', 'coarctation of the aorta', 'coarctation of aorta']",aortic coarctation,0,['C0003492'],94,5.8883876600388025e-06
+923,[14304],['sigmoid volvulus'],sigmoid volvulus,0,['C0149863'],49,5.495828482702883e-06
+924,[9747],"['trichomonas', 'trich', 'trichomonas infection']",trichomonas,0,['C0040921'],85,0.00016749476029504574
+925,[5685],['lymphoproliferative disorder'],lymphoproliferative disorder,0,['C0024314'],221,4.120164582995267e-05
+926,[5784],"['marfan syndrome', ""marfan's syndrome"", 'marfans syndrome', 'marfan']",marfan syndrome,0,['C0024796'],127,1.2988588432723273e-05
+927,[6138],"['MCTD', 'mixed connective tissue disease']",mctd,0,['C0026272'],53,4.676574547393136e-05
+928,[313375],"['left arm weakness', 'weakness in left arm']",left arm weakness,0,['C2202995'],14,5.107536252946701e-05
+929,[6326],"['myoclonus', 'myoclonic jerks']",myoclonus,0,['C0027066'],149,0.00019996623137685394
+930,[62107],"['foot fracture', 'foot fractures']",foot fracture,0,['C0272774'],92,8.667877313480306e-05
+931,[150878],"['reflex sympathetic dystrophy', 'complex regional pain syndrome', 'crps', 'regional complex pain syndrome']",reflex sympathetic dystrophy,0,['C0458219'],15,0.00010775749417871008
+932,[4682],"['hyperemesis', 'hyperemesis gravidarum']",hyperemesis,0,['C0020450'],118,1.3568893303567674e-05
+933,[3366],"['achalasia', 'esophageal achalasia']",achalasia,0,['C0014848'],91,8.440022312722286e-06
+934,[13431],"['idiopathic pulmonary fibrosis', 'cryptogenic fibrosing alveolitis']",idiopathic pulmonary fibrosis,0,['C0085786'],11,0.0
+935,[622],['hypoxia'],hypoxia,1,['C0003130'],130,0.0
+936,[21551],['clipping'],clipping,0,['C0185010'],94,0.0
+937,[1779],['cervical cancer'],cervical cancer,0,['C0007847'],37,0.0
+938,[19130],['pseudoaneurysm'],pseudoaneurysm,0,['C0162868'],94,0.0

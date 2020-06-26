@@ -1,0 +1,228 @@
+index,umls_index,common_name,synonyms,umls_cui,ignore,ros_indication
+0,7065,pain,"['pain', 'painful', 'pains', 'pain symptoms', 'pain nos']",C0030193,0,Constitutional
+1,3015,dyspnea,"['shortness of breath', 'dyspnea', 'short of breath', 'SOB', 'difficulty breathing', 'breathing difficulty', 'respiratory difficulty', 'respiratory difficulties', 'difficult breathing', 'breathing difficulties', 'shortness of breath dyspnea', 'breathless', 'breathlessness', 'breathing difficult', 'dyspneas', 'dyspnoea', 'breathing shortness']",C0013404,0,Resp
+2,3665,fever,"['fevers', 'fever', 'febrile', 'feverish', 'feels feverish', 'elevated temperature', 'hyperthermia', 'hyperthermic', 'temperature elevation', 'high temperature']",C0015967,0,Constitutional
+3,1829,chest pain,"['chest pain', 'chest pains', 'pain in chest', 'thoracic pain', 'pain chest', 'reported chest pain', 'chest pain or discomfort', 'nonspecific chest pain', 'thorax pain']",C0008031,0,Cards
+4,42,abdominal pain,"['abdomen pain', 'abdominal pain', 'abd pain', 'epigastric pain', 'right upper quadrant pain', 'right lower quadrant pain', 'rlq pain', 'left lower quadrant pain', 'llq pain', 'llq abdominal pain', 'rlq abdominal pain', 'lower abdominal pain', 'epigastric abdominal pain', 'left lower quadrant abdominal pain', 'right lower quadrant abdominal pain', 'right upper quadrant abdominal pain', 'ruq pain', 'ruq abdominal pain', 'left upper quadrant pain', 'luq pain', 'luq abdominal pain', 'abdominal discomfort', 'left upper quadrant abdominal pain', 'upper abdominal pain', 'left sided abdominal pain', 'abdominal tenderness', 'right sided abdominal pain', 'abdomen discomfort', 'abdominal migraine', 'abdominal migraines', 'stomach pain', 'abdominal pains', 'abdominal pain nos', 'abdomen tenderness', 'pain right lower quadrant', 'abdominal pain right upper quadrant', 'upper abdomen pain', 'abdominal pain left lower quadrant', 'abdominal pain right lower quadrant', 'lower abdomen pain']",C0000737,0,Abd
+5,10237,vomiting,"['vomiting', 'emesis', 'vomited', 'vomit', 'vomits', 'throwing up', 'throw up', 'vomiting disorder', 'vomiting symptoms']",C0042963,0,Constitutional
+6,6408,nausea,"['nausea', 'nauseous', 'nauseated', 'nauseas','queasy', 'feeling queasy', 'nauseating']",C0027497,0,Constitutional
+7,2331,coughing,"['cough', 'coughing', 'coughs', 'complaining of cough', 'cough symptoms']",C0010200,0,Resp
+8,13346,chills,"['chills', 'shaking chills', 'chill', 'shaking chill', 'chilling']",C0085593,0,Constitutional
+9,13378,falls,"['fall', 'falls', 'falling', 'fall down', 'falling down', 'falls;']",C0085639,0,
+10,2718,diarrhea,"['diarrhea', 'loose stools', 'watery stools', 'loose bowel movement', 'watery stool', 'diarrhoea', 'frequent stools', 'diarrhea symptoms', 'diarrheas', 'symptoms diarrhea', 'stools loose', 'loose bowel motions']",C0011991,0,Flank
+11,385156,weakness,"['weakness', 'weak', 'generalized weakness', 'feeling weak', 'feels weak', 'general weakness', 'feel weak', 'loss of strength', 'feelings of weakness', 'feeling weakness', 'weaknesses', 'debility', 'generalised weakness', 'weakness generalized', 'weak feeling']",C3714552,0,Constitutional
+12,4259,headache,"['headache', 'headaches', 'head pain', 'head ache', 'have headaches', 'pain in head', 'pain head', 'head pains', 'cephalgia']",C0018681,0,Neuro
+13,4723,hypertensive disease,"['hypertension', 'elevated blood pressure', 'high blood pressure', 'increased blood pressure', 'blood pressure high', 'high blood pressures', 'systemic hypertension', 'arterial hypertension']",C0020538,1,
+14,9252,swelling,"['swelling', 'swollen', 'bulge', 'bulging', 'swell', 'swelled', 'swellings', 'swells']",C0038999,0,
+15,3024,dysuria,"['dysuria', 'pain with urination', 'painful urination', 'pain during urination', 'pain passing urine']",C0013428,0,Flank
+17,2911,dizziness,"['dizziness', 'dizzy', 'dizzyness', 'woozy', 'wooziness']",C0012833,0,
+18,6632,numbness,"['numbness', 'loss of sensation', 'sensation loss', 'numbness sensation']",C0028643,0,
+19,40209,lightheadedness,"['lightheadedness', 'lightheaded', 'light-headedness', 'light headedness', 'light headed', 'light-headed', 'feels light headed', 'light head']",C0220870,0,Neuro
+20,963,back pain,"['back pain', 'pain in back', 'back pain in', 'back pain over', 'backpain', 'pain back', 'back ache', 'back pains', 'backache', 'back aches', 'pain over the back', 'dorsal pain', 'back; pain']",C0004604,0,Ext
+21,121549,suicidal ideation,"['suicidal ideation', 'suicidal thoughts', 'suicidal ideations', 'thoughts of suicide', 'feeling suicidal', 'thinking about suicide', 'thoughts about suicide', 'suicide thoughts', 'si']",C0424000,0,Psych
+22,7184,paresthesia,"['tingling', 'paresthesias', 'parasthesias', 'saddle paresthesias', 'saddle paresthesia', 'paresthesia', 'parasthesia', 'paraesthesias', 'pins and needles feeling', 'paraesthesia']",C0030554,0,
+23,385191,trauma,"['trauma', 'traumas']",C3714660,0,
+24,167078,surgical procedures,"['surgery', 'surgeries', 'surgical', 'surg', 'operation', 'surgically', 'surgical procedures', 'surgical interventions', 'surgical procedure', 'surgical treatment', 'operative procedure', 'surgical treatments']",C0543467,1,
+25,1784,neck pain,"['neck pain', 'pain in neck', 'cervical pain', 'neck ache', 'pain neck', 'neck pains', 'painful neck', 'cervicalgia', 'neck aches', 'neckache']",C0007859,0,Ext
+27,4396,hemorrhage,"['bleeding', 'bleed', 'hemorrhage', 'bleeds', 'blood loss', 'hemorrhages', 'bleeding problems', 'extravasation of blood']",C0019080,0,
+28,2627,mental depression,"['depression', 'depressions', 'depression nos']",C0011570,0,Psych
+29,15741,malignant neoplasm of abdomen,"['abdominal cancer', 'abdomen cancer']",C0153662,1,
+30,8598,seizures,"['seizure', 'seizures', 'seizure d', 'fits', 'convulsions', 'fitting', 'fitted', 'convulsion']",C0036572,0,Neuro
+31,886,atrial fibrillation,"['atrial fibrillation', 'a fib', 'afib']",C0004238,0,Cards
+32,205643,coumadin,['coumadin'],C0699129,1,
+33,9267,syncope,"['syncope', 'passed out', 'pass out', 'loss of consciousness', 'faint', 'fainted', 'fainting', 'falling out', 'faintness', 'blackout', 'syncopes', 'fainting episodes', 'a faint', 'syncopal attack', 'faints', 'falls out']",C0039070,0,Constitutional
+35,6409,nausea and vomiting,"['nausea/vomiting', 'nausea and vomiting', 'nausea vomiting', 'nausea with vomiting', 'vomiting and nausea', 'nausea and vomiting symptoms', 'n/v', 'n/v/d']",C0027498,0,Constitutional
+36,3470,exanthema,"['rash', 'rashes', 'spots', 'skin rash', 'skin rashes', 'eruption', 'exanthem', 'skin eruption']",C0015230,0,Skin
+37,48501,malaise,"['discomfort', 'malaise', 'feeling unwell', 'general malaise', 'not feeling well', 'generally unwell', 'feels unwell', 'feeling poorly', 'feel ill', 'feeling bad', 'does not feel right', 'feel bad', 'ill feeling', 'not feeling great', 'feels poorly', 'feels awful', 'felt generally ill', 'feeling miserable']",C0231218,0,Constitutional
+38,861,asthma,"['asthma', 'asthmatic', 'asthmas', 'bronchial asthma']",C0004096,0,Resp
+39,334,alcohol consumption,"['drinking', 'alcohol use', 'drinking alcohol', 'alcohol ingestion', 'alcohol intake', 'alcohol consumption', 'drink alcohol', 'etoh use', 'alcohol drinking']",C0001948,0,
+40,2218,confusion,"['confusion', 'confused', 'dazed', 'confusion and disorientation', 'confusional state', 'confusion/disorientation', 'feeling dazed', 'easily confused', 'daze', 'mental confusion', 'dazing']",C0009676,0,
+41,8621,esthesia,"['sensation', 'sense', 'sensations', 'sensory function', 'senses']",C0036658,0,
+42,9982,urinary tract infection,"['urinary tract infection', 'utis', 'urinary tract infections', 'urinary infection']",C0042029,0,Flank
+43,704,anxiety,"['anxiety', 'anxious', 'feeling anxious', 'feel anxious', 'anxiousness', 'anxieties', 'anxious behavior']",C0003467,0,Psych
+44,3589,fatigue,"['fatigue', 'fatigued', 'decreased energy', 'tiredness', 'extreme fatigue', 'lack of energy', 'loss of energy', 'fatigues', 'decrease in energy', 'fatiguing', 'tired all the time', 'lacking energy']",C0015672,0,
+46,4364,hematuria,"['hematuria', 'blood in urine', 'blood urine', 'haematuria', 'urine blood']",C0018965,0,Flank
+48,4293,congestive heart failure,"['congestive heart failure', 'congestive heart disease']",C0018802,1,
+49,8037,pulmonary embolism,"['pulmonary embolism', 'pulmonary embolisms', 'pulmonary embolus', 'pulmonary emboli', 'pulm embolism', 'blood clot in lungs']",C0034065,0,Cards
+50,50889,sore to touch,"['tenderness', 'soreness', 'sore', 'sore pain', 'sore to touch', 'tender pain']",C0234233,0,
+51,52703,sore throat,"['sore throat', 'throat pain', 'sorethroat', 'throat discomfort', 'pain in throat', 'sore throats', 'throat sore', 'pharyngeal pain']",C0242429,0,
+52,8227,rehabilitation therapy,"['rehab', 'rehabilitation']",C0034991,0,
+53,2250,constipation,"['constipation', 'constipated', 'difficulty defecating', 'difficulty passing stool', 'constipating', 'constipate']",C0009806,0,Flank
+54,14326,migraine disorders,"['migraines', 'migraine', 'migraine headaches', 'migraine headache', 'migraine type headaches', 'migraine syndrome', 'migrainous headache', 'migraine disorder']",C0149931,0,Neuro
+55,5635,chronic obstructive airway disease,"['chronic obstructive pulmonary disease', 'copd', 'chronic obstructive lung disease']",C0024117,1,
+56,5898,melena,"['melena', 'black stools', 'dark stools', 'black stool', 'tarry stools', 'tarry stool', 'stool black']",C0025222,0,Flank
+57,366977,traumatic injury,"['injury', 'injuries', 'traumatic injury']",C3263723,0,
+59,7629,pneumonia,"['pneumonia', 'pneumonias', 'pneumoniae', 'lung inflammation', 'pulmonary inflammation']",C0032285,0,Resp
+60,216927,procedures on bladder,"['bladder', 'bladder procedures']",C0872388,1,
+61,5615,low back pain,"['low back pain', 'lower back pain', 'lumbar back pain', 'lumbar pain', 'lumbago', 'back pain lumbar', 'low back pains', 'back pain lower back', 'lumbalgia', 'low back ache']",C0024031,0,Ext
+62,3062,edema,"['edema', 'edematous', 'hydrops', 'interstitial edema', 'excess fluid', 'waterlogged']",C0013604,0,
+63,9936,erythema,"['erythema', 'skin erythema', 'skin redness', 'redness of skin', 'red skin', 'erythema of skin']",C0041834,0,
+65,14307,deep vein thrombosis,"['deep vein thrombosis', 'deep venous thrombosis', 'deep vein thromboses']",C0149871,0,
+66,3714,flank pain,"['flank pain', 'flank pains', 'pain in flank', 'pain in the flank']",C0016199,0,Flank
+67,48936,dyspnea on exertion,"['dyspnea on exertion', 'shortness of breath on exertion', 'exertional dyspnea', 'dyspnea with exertion', 'soboe', 'short of breath on exertion', 'shortness of breath during exercise', 'shortness of breath exertion', 'dyspnea during exertion']",C0231807,0,Resp
+68,379645,chemotherapy,"['chemo', 'chemotherapy', 'cancer chemotherapy']",C3665472,1,
+70,77570,redness,"['redness', 'red color', 'rubor']",C0332575,0,
+71,192638,swelling of lower limb,"['leg swelling', 'lower extremity swelling', 'swelling of legs', 'swollen legs', 'swollen leg', 'lower extremity swollen', 'leg swollen', 'legs swelling']",C0581394,0,Ext
+73,134697,chest pressure,"['chest pressure', 'pressure chest', 'pressure in chest']",C0438716,0,Cards
+74,10142,vertigo,"['vertigo', 'spinning', 'spinning sensation', 'spinning dizziness', 'dizzy spell', 'head spinning', 'spinning sensations']",C0042571,0,Neuro
+75,10310,laceration,"['laceration', 'tearing', 'lacerations', 'tear', 'lacerated', 'torn', 'lacerating', 'lacerate']",C0043246,0,
+76,3953,gastroesophageal reflux disease,"['gastroesophageal reflux disease', 'gerd', 'gastric reflux', 'gastroesophageal reflux', 'esophageal reflux', 'esophageal reflux disease', 'gastro-esophageal reflux disease']",C0017168,1,
+77,6245,muscle cramp,"['cramping', 'cramps', 'muscle cramps', 'cramp', 'muscle cramping', 'muscle cramp', 'muscular cramps']",C0026821,0,
+78,333759,vaginal hemorrhage,"['vaginal bleeding', 'vaginal bleed', 'bleeding from vagina', 'bleeding vaginal', 'vagina bleeding', 'pv bleeding', 'vaginal bleedings']",C2979982,0,Flank
+79,385147,infection,"['infection', 'infections', 'infect']",C3714514,0,
+80,10311,injury wounds,"['wound', 'wounds']",C0043250,0,
+81,3828,fracture,"['fracture', 'fractures', 'fractured', 'bone fractures', 'bone fracture', 'broken bones', 'broken bone']",C0016658,0,
+82,2709,dialysis procedure,"['dialysis', 'renal dialysis']",C0011946,1,
+83,1045,mental disorders,"['psych', 'psychiatric illness', 'psychiatric disease', 'psychiatric disorder', 'mental illness', 'psychiatric disorders', 'psychiatric disorder nos']",C0004936,1,
+84,6320,myocardial infarction,"['myocardial infarction', 'heart attack', 'heart attacks', 'myocardial infarctions', 'infarction; myocardial']",C0027051,0,Cards
+85,216421,dry cough,"['dry cough', 'nonproductive cough', 'non-productive cough', 'non productive cough', 'cough nonproductive', 'cough non productive', 'cough dry', 'unproductive cough']",C0850149,0,Resp
+86,10283,wheezing,"['wheezing', 'wheeze', 'wheezes', 'wheezy']",C0043144,0,Resp
+87,4257,craniocerebral trauma,"['head trauma', 'head injury', 'head inj', 'head injuries', 'head traumas', 'injuries to the head']",C0018674,0,Neuro
+88,13369,burning sensation,"['burning', 'burning sensation', 'burning sensations']",C0085624,0,
+89,48710,myalgia,"['myalgias', 'muscle aches', 'myalgia', 'muscle pain', 'muscular pain', 'muscle ache', 'muscle soreness', 'muscle pains', 'generalized muscle aches', 'muscular pains', 'muscles pain', 'aching muscles']",C0231528,0,Constitutional
+90,1710,cellulitis,['cellulitis'],C0007642,0,
+91,67,abscess,"['abscess', 'abscesses']",C0000833,0,
+92,9979,urinary incontinence,"['urinary incontinence', 'bladder incontinence', 'incontinent of urine', 'incontinence of urine', 'urine incontinence', 'loss of bladder control', 'leaking urine', 'urine leaking', 'enuresis', 'incontinence urinary', 'urine leak', 'weak bladder', 'involuntary urination', 'leaking of urine', 'unable to hold urine', 'bladder incontinent']",C0042024,0,
+93,50909,radiating pain,"['pain radiating', 'pain radiates', 'radiating pain', 'pain radiate']",C0234254,0,
+94,9091,cerebrovascular accident,"['stroke', 'strokes']",C0038454,0,
+95,9391,tetanus,['tetanus'],C0039614,0,
+96,9943,upper respiratory infections,"['upper respiratory infection', 'urti', 'upper respiratory tract infection', 'upper respiratory infections']",C0041912,0,Resp
+97,9711,tremor,"['shaking', 'tremors', 'tremor', 'shakes', 'shake', 'the shakes', 'shaking all over', 'quivering', 'has a tremor', 'tremors/shaking', 'shaking/tremors']",C0040822,0,
+98,50894,ache,"['aches', 'ache', 'aching', 'aching pain', 'ached']",C0234238,0,
+99,2806,pathological dilatation,"['distention', 'distension', 'dilation', 'dilatations', 'ectasia', 'ectasias']",C0012359,0,
+100,3710,pathologic fistula,"['sinus', 'fistula', 'fistulas', 'sinuses', 'fistulous tract']",C0016169,0,
+101,21240,interventional procedure,"['procedure', 'intervention', 'procedures', 'interventional', 'interventional procedure', 'interventional procedures']",C0184661,0,
+102,13376,photophobia,"['photophobia', 'sensitivity to light', 'light sensitivity']",C0085636,0,
+103,123671,urinary symptoms,"['urinary symptoms', 'symptoms urinary']",C0426359,0,
+104,49328,chest tightness,"['chest tightness', 'tightness in chest', 'tight chest', 'feeling of chest tightness', 'chest tightness of', 'tightness of chest']",C0232292,0,Cards
+105,4986,insulin,"['insulin', 'regular insulin', 'insulins', 'insulin regular']",C0021641,1,
+106,47932,psyche structure,"['mental', 'mind', 'psyche']",C0229992,0,
+107,1830,pleuritic pain,"['pleuritic chest pain', 'pleuritic pain', 'pleural pain']",C0008033,0,Resp
+108,5225,kidney calculi,"['kidney stones', 'kidney stone', 'renal stones', 'renal stone', 'renal calculi', 'renal calculus', 'nephrolith', 'stone in kidney']",C0022650,0,
+110,5432,lethargy,"['lethargy', 'lethargic', 'listless', 'stuporous']",C0023380,0,
+111,1497,malignant neoplasms,"['cancer', 'malignancy', 'cancers', 'malignancies', 'malignant tumor', 'malignant neoplasm']",C0006826,1,
+112,279038,blood in stool,"['blood in stool', 'bloody stool', 'blood in stools', 'blood stool', 'blood in feces', 'brbpr']",C1321898,0,Flank
+113,2110,cocaine,"['cocaine', 'snow', 'blow', 'coke', 'cocain']",C0009170,1,
+114,5384,pain in lower limb,"['leg pain', 'lower leg pain', 'pain in leg', 'pains in legs']",C0023222,0,Ext
+115,2530,deglutition disorders,"['dysphagia', 'difficulty swallowing', 'swallowing difficulty', 'swallowing difficulties', 'difficult swallowing', 'swallowing difficult', 'poor swallowing', 'difficulties swallowing', 'difficulty in swallowing', 'dysphagias', 'cannot get food down', 'swallowing disorder']",C0011168,0,
+116,4395,hemoptysis,"['hemoptysis', 'coughing up blood', 'bloody sputum', 'spitting up blood', 'blood streaked sputum', 'coughing blood', 'spit up blood', 'blood spitting up']",C0019079,0,Resp
+117,239095,rhinorrhea,"['rhinorrhea', 'runny nose', 'nasal discharge', 'nasal drip', 'discharge from nose', 'running nose']",C1260880,0,ENT
+118,2183,common cold,"['cold', 'viral upper respiratory infection', 'colds', 'head cold', 'coryza', 'upper respiratory infection viral', 'common cold']",C0009443,0,
+120,49463,decrease in appetite,"['decreased appetite', 'poor appetite', 'decrease in appetite', 'decrease appetite', 'reduced appetite', 'appetite decreased', 'appetite poor', 'appetite decrease']",C0232462,0,Psych
+121,617,anorexia,"['anorexia', 'no appetite', 'loss of appetite', 'lack of appetite', 'anorexic', 'appetite loss', 'anorectic']",C0003123,1,
+122,9038,steroids,"['steroids', 'steroid']",C0038317,1,
+123,13372,agitation,"['agitated', 'agitation', 'restless', 'psychomotor agitation', 'agitated behavior', 'feeling agitated', 'agitate', 'agitated behaviour']",C0085631,0,
+125,3716,flatulence,"['flatus', 'passing flatus', 'flatulence', 'wind']",C0016204,0,
+126,14659,neck stiffness,"['neck stiffness', 'stiff neck', 'neck rigidity', 'neck stiff']",C0151315,0,ENT
+127,137889,waking,"['waking', 'wake', 'wakes']",C0442696,0,
+128,68163,blood clot,"['clots', 'blood clot']",C0302148,0,
+129,2270,contusions,"['bruising', 'contusion', 'bruise', 'bruises', 'contusions', 'bruised', 'contused']",C0009938,0,
+131,4890,incontinence,['incontinence'],C0021167,0,
+132,224904,skin,"['skin', 'skinned', 'skins', 'cutis']",C1123023,1,
+133,40296,visual suppression,['suppression'],C0221103,1,
+134,38,abdominal cramps,"['abdominal cramping', 'crampy abdominal pain', 'abdominal cramps', 'abdominal cramp', 'cramp abdominal']",C0000729,0,Abd
+135,147397,tobacco smoking behavior,"['smoking', 'tobacco smoking', 'smoking tobacco']",C0453996,0,
+136,205992,presyncope,"['presyncope', 'near syncope', 'pre-syncope', 'pre syncope', 'presyncopes']",C0700200,0,
+137,4534,hip pain,"['hip pain', 'pain in hip', 'hip painful', 'hips pain', 'hip pains', 'hip joint pain', 'painful hip']",C0019559,0,Flank
+138,3606,fecal incontinence,"['bowel incontinence', 'fecal incontinence', 'stool incontinence', 'incontinence of bowel', 'incontinent of stool', 'incontinence of stool', 'of bowel incontinence', 'loss of bowel control', 'incontinence bowel', 'incontinence of feces', 'incontinent of feces', 'incontinence stool', 'anal incontinence', 'incontinence fecal', 'incontinent of bowels']",C0015732,0,Flank
+139,124316,facial paresis,"['facial droop', 'facial weakness', 'facial drooping', 'face weakness', 'weakness of face', 'facial paresis']",C0427055,0,Head / Eyes
+140,13627,thrombus,"['blood clots', 'thrombus', 'thrombi', 'thrombotic']",C0087086,0,
+141,57803,rectal hemorrhage,"['rectal bleeding', 'blood per rectum', 'rectal bleed', 'bleeding per rectum', 'bleeding rectal', 'rectal hemorrhage', 'bleeding pr']",C0267596,0,Flank
+142,6662,obstruction,"['obstruction', 'block', 'blocked', 'occlusion', 'blocks', 'obstructions', 'occluding', 'occlusions']",C0028778,0,
+143,51596,chest discomfort,"['chest discomfort', 'discomfort in chest', 'chest distress']",C0235710,0,Cards
+144,4155,gout,['gout'],C0018099,0,
+145,863,astigmatism,['astigmatism'],C0004106,0,Head / Eyes
+146,9150,suicide attempt,"['suicide attempt', 'suicide attempts', 'attempted suicide', 'attempt suicide']",C0038663,0,
+147,4715,hypersensitivity,"['allergies', 'allergy', 'sensitivity', 'allergy.', 'allergic reactions', 'hypersensitivity', 'hypersensitivity reaction']",C0020517,0,
+148,4354,hematoma,"['hematoma', 'hematomas', 'haematoma']",C0018944,0,
+149,40325,tripping,"['trip', 'tripping', 'trips']",C0221188,1,
+150,9903,ulcer,"['ulcer', 'ulcers', 'ulcerations', 'ulcerated', 'ulcerative', 'ulcerating', 'ulcerative lesion', 'ulcerate', 'ulcer lesion']",C0041582,0,
+152,7066,pain in limb,"['extremity pain', 'pain in extremities', 'limb pain', 'pain extremity', 'extremities pain', 'pain extremities']",C0030196,0,Ext
+153,52259,arm pain,"['arm pain', 'upper extremity pain', 'pain in arm', 'arm pains']",C0239377,0,Ext
+155,4225,hallucinations,"['hallucinations', 'hallucinating', 'hallucination', 'hallucinated', 'hallucinate']",C0018524,0,Psych
+156,88,accidents,"['accident', 'accidents']",C0000924,0,
+157,278938,compliance behavior,"['compliant', 'compliance', 'patient cooperation']",C1321605,0,
+158,1923,cholelithiasis,"['gallstones', 'cholelithiasis', 'gallstone', 'gall stones', 'gallbladder stones', 'gall stone', 'biliary stones', 'gallbladder stone', 'gallstone disease', 'cholecystolithiasis', 'cholelithiases']",C0008350,0,
+159,51679,pain in calf,"['calf pain', 'pain in calf', 'pain calf', 'calf pains']",C0236040,0,
+160,6561,night sweats,"['night sweats', 'night sweat', 'nights sweats']",C0028081,0,
+162,205972,congestion,"['congestion', 'congestions']",C0700148,0,
+163,49482,abdominal discomfort,"['abdominal discomfort', 'abdomen discomfort']",C0232487,0,Abd
+164,171210,tired,['tired'],C0557875,0,
+165,799,arthralgia,"['joint pain', 'arthralgias', 'joint pains', 'arthralgia', 'pain in joints', 'painful joints', 'diffuse joint pains', 'joint ache', 'aching joints', 'pain in joint']",C0003862,0,
+167,3033,earache,"['ear pain', 'ear ache', 'earache', 'otalgia', 'earaches', 'pain in ear', 'ear aches', 'pain in the ear', 'pain ear']",C0013456,0,ENT
+168,77649,recent injury,"['recent trauma', 'recent injury']",C0332665,0,
+169,6390,nasal congestion,"['nasal congestion', 'stuffy nose', 'nasal stuffiness', 'congested nose']",C0027424,0,ENT
+170,5139,icterus,"['jaundice', 'jaundiced', 'icterus', 'icteric', 'yellowing of the skin', 'yellow skin']",C0022346,0,
+171,367408,numbness of saddle area,"['saddle anesthesia', 'saddle anaesthesia']",C3266098,0,
+172,8880,spasm,"['spasms', 'spasm', 'muscle spasms', 'muscle spasm', 'muscular spasm', 'muscular spasms']",C0037763,0,
+173,6850,ostomy,['ostomy'],C0029473,1,
+174,1167,bite injury,"['bite', 'bites', 'biting', 'bite wound', 'bite injury']",C0005658,0,
+175,14713,hemorrhagic diarrhea,"['bloody diarrhea', 'bloody bowel movement', 'diarrhea bloody', 'hemorrhagic diarrhea']",C0151594,0,
+176,8672,sexually transmitted diseases,"['sexually transmitted disease', 'stds', 'stis', 'venereal disease', 'sexually transmitted diseases', 'sexually transmitted infections', 'sexually transmitted infection']",C0036916,1,
+177,307643,paroxysmal nocturnal dyspnea,['paroxysmal nocturnal dyspnea'],C1956415,0,
+178,264710,abdominal bloating,"['bloating', 'abdominal bloating', 'abdomen bloating', 'abdomen feels bloated', 'bloating abdominal', 'gassiness', 'bloat', 'bloating symptoms']",C1291077,0,Abd
+179,656,anticoagulants,"['blood thinners', 'anticoagulants', 'anticoag', 'anticoagulant', 'blood thinner']",C0003280,0,
+180,49591,retching,"['dry heaves', 'heaving', 'retching', 'dry heave']",C0232602,0,
+181,51670,jaw pain,"['jaw pain', 'pain in jaw', 'lower jaw pain', 'mandibular pain', 'pain of jaw']",C0236000,0,ENT
+182,278928,breathing abnormally deep,['deep breath'],C1321587,0,Resp
+183,48,congenital abnormality,"['abnormalities', 'abnormality', 'deformities', 'malformation', 'malformations', 'congenital malformation', 'congenital deformity', 'fetal anomaly', 'congenital abnormality', 'congenital abnormalities']",C0000768,0,
+184,50508,"hallucinations, visual","['visual hallucinations', 'seeing things', 'visual hallucination', 'see things', 'hallucinations visual']",C0233763,0,Neuro
+185,13347,fever with chills,"['fever chills', 'chills and fever', 'fever with chills', 'chills with fever', 'chills fevers', 'fever/chills', 'chills & fever', 'f/c']",C0085594,0,Constitutional
+186,523,analgesics,"['pain medication', 'analgesics', 'pain medicine', 'analgesic', 'pain medicines', 'pain killers', 'painkillers', 'pain relievers', 'analgesic agents']",C0002771,0,
+187,3072,effusion,"['effusion', 'free fluid', 'effusions']",C0013687,0,
+188,3765,flushing,"['flushed', 'flushing', 'flush', 'facial flushing', 'flushes', 'flushed skin', 'face flushed', 'flushed face', 'skin flushing', 'flushing reaction', 'skin flushed', 'facial flush', 'face flushing']",C0016382,0,
+189,2186,communicable diseases,"['infectious', 'infectious disease', 'infectious diseases', 'infec']",C0009450,0,
+190,40306,swallowing painful,"['odynophagia', 'pain with swallowing', 'painful swallowing', 'pain on swallowing', 'pain swallowing', 'swallowing pain', 'swallowing painful', 'painful swallow']",C0221150,0,ENT
+191,312991,loose stool,"['loose stool', 'liquid stool', 'liquid stools', 'loose bowel', 'loose bowels', 'runny stools', 'stool loose', 'runny stool', 'loose bm']",C2129214,0,
+192,122249,rigor ,"['rigors', 'rigoring', 'having rigors']",C0424790,0,
+193,867,ataxia,"['ataxia', 'dyssynergia']",C0004134,0,
+194,9556,tinnitus,"['tinnitus', 'ringing in ears', 'ear ringing', 'ringing in the ear', 'ringing in the ears', 'ringing in ear', 'hearing noises']",C0040264,0,
+196,9384,pain in testicle,"['testicular pain', 'testicle pain', 'pain in testicle']",C0039591,0,Flank
+197,14809,eye pain,"['eye pain', 'ocular pain', 'pain in eye', 'pain in eyes']",C0151827,0,Head / Eyes
+198,50507,auditory hallucinations,"['auditory hallucinations', 'auditory hallucination', 'hallucinations auditory', 'hearing sounds']",C0233762,0,Psych
+199,213502,substance abuse problem,"['substance abuse', 'alcohol or drug abuse', 'drug and alcohol abuse', 'substance abuse problems', 'substance abuse problem']",C0740858,0,Psych
+200,5053,intubation,"['intubation', 'intubations']",C0021925,0,
+201,2998,dysarthria,"['dysarthria', 'dysarthric speech']",C0013362,0,ENT
+202,52578,difficulty passing urine,"['difficulty urinating', 'difficulty voiding', 'difficulty with urination', 'urinary difficulty', 'difficulties urinating', 'difficulty passing urine', 'urination difficulty', 'urinating difficulty']",C0241705,0,
+203,647,"anti-inflammatory agents, non-steroidal","['nsaids', 'nonsteroidal anti-inflammatory drug', 'nsaid', 'nsaia']",C0003211,0,
+204,9617,toothache,"['tooth pain', 'dental pain', 'toothache', 'tooth ache', 'pain in tooth', 'toothaches']",C0040460,0,ENT
+205,52320,frontal headache,"['frontal headache', 'frontal headaches', 'headache frontal']",C0239886,0,Neuro
+206,213894,upper extremity paresis,"['upper extremity weakness', 'arm weakness', 'weakness in arm', 'weakness of arms', 'arm paresis', 'upper extremity paresis', 'weakness of arm', 'weakness arms', 'weakness arm']",C0751409,0,Ext
+207,68159,deformity,['deformity'],C0302142,0,
+210,156489,respiratory distress,['respiratory distress'],C0476273,0,Resp
+212,33595,operation on abdominal region,"['abdomen surgeries', 'abdominal surgery', 'abdomen surgery', 'abdominal operations']",C0198482,1,
+213,8550,sciatica,"['sciatica', 'sciatia']",C0036396,0,Neuro
+214,3321,eructation,"['belching', 'burping', 'burp', 'belch', 'burps', 'eructation']",C0014724,0,
+215,18999,malnutrition,"['deficit', 'deficiency', 'malnutrition', 'poor nutrition', 'malnourished', 'nutritional deficiencies', 'nutritional deficiency']",C0162429,0,
+216,4846,immobilization,"['immobilization', 'immobilize', 'immobilisation']",C0020944,0,
+218,186493,edema of foot ,"['pedal edema', 'foot swelling', 'feet swelling', 'foot edema', 'swollen foot', 'swelling of foot', 'swelling of feet', 'swollen feet']",C0574002,0,Ext
+219,51453,neurologic symptoms,"['neurologic symptoms', 'neurological symptoms', 'neurol symptoms', 'nervous system symptoms', 'neurological complaint', 'neurologic symptom']",C0235031,0,Neuro
+220,282584,hearing impairment,"['hearing loss', 'decreased hearing', 'difficulty hearing', 'hard of hearing', 'loss of hearing', 'hearing impairment', 'hearing impaired', 'hearing deficit', 'impaired hearing', 'hearing decreased']",C1384666,0,ENT
+221,379564,visual impairment,"['vision loss', 'visual loss', 'vision problems', 'difficulty seeing', 'difficulty with vision', 'visual deficit', 'diplopia', 'visual impairment', 'vision disturbances', 'visual defects', 'impaired vision', 'visual defect', 'vision impairment', 'visual difficulty', 'vision problem', 'vision disturbance', 'disturbed vision', 'partial blindness']",C3665347,0,Head / Eyes
+222,52531,tongue biting,"['tongue biting', 'tongue bite', 'bite tongue', 'biting tongue']",C0241424,0,ENT
+225,186552,increasing breathlessness,"['increased shortness of breath', 'shortness of breath increased', 'increasing breathlessness']",C0574066,0,Resp
+226,52266,numbness of face,"['facial numbness', 'face numbness', 'numbness of face', 'numbness in face', 'of face numbness', 'numbness face']",C0239511,0,Head / Eyes
+227,52439,prodrome,"['prodrome', 'prodromes']",C0240805,0,
+230,124269,stiffness,['stiffness'],C0427008,0,
+231,213909,phonophobia,['phonophobia'],C0751466,0,
+232,155169,feces color: tarry,"['dark stool', 'black tarry stools', 'black tarry stool', 'black or tarry stools']",C0474585,0,
+233,1212,blood coagulation disorders,"['clotting', 'coagulopathy', 'clotting disorder', 'bleeding disorders', 'clotting disorders', 'bleeding diathesis', 'bleeding disorder', 'coagulopathies', 'coagulation disorders']",C0005779,0,
+235,49810,discharge from penis,"['penile discharge', 'discharge from penis', 'discharge penile']",C0232861,0,Flank
+236,51684,tongue swelling,"['tongue swelling', 'swollen tongue', 'swelling of tongue', 'tongue swell']",C0236068,0,ENT
+237,565,anesthesia procedures,"['anesthesia', 'anesthesia for', 'anesthesias', 'anaesthesia', 'administration of anaesthesia', 'procedure anesthesia']",C0002903,0,
+238,9560,tobacco,"['tobacco', 'tobacco products']",C0040329,1,
+239,5104,ischemia,['ischemia'],C0022116,0,
+240,478,amnesia,"['amnesia', 'loss of memory']",C0002622,0,Neuro
+241,2947,drug abuse,"['drug abuse', 'recreational drug use', 'drugs of abuse', 'medication abuse']",C0013146,1,
+242,9090,stridor,"['stridor', 'stridulous breathing']",C0038450,0,
+243,6252,muscle rigidity,"['rigidity', 'rigid', 'rigor', 'muscle rigidity']",C0026837,0,
+244,9810,trismus,"['trismus', 'jaw spasm']",C0041105,0,
+245,50908,rest pain,"['pain at rest', 'rest pain', 'pain rest']",C0234253,0,
+246,52526,tick bite,"['tick bites', 'tick bite', 'tick exposure']",C0241407,0,
+247,49795,bladder dysfunction,['bladder dysfunction'],C0232841,0,Flank
+248,8665,sexual abstinence,"['not sexually active', 'celibate']",C0036899,0,
+249,49794,bladder function,"['bladder function', 'bladder functions']",C0232840,1,
+250,66685,altered bowel function,"['change in bowel habits', 'change in bowel habit', 'altered bowel habits']",C0278008,0,
+251,13215,sudden cardiac death,"['sudden cardiac death', 'cardiac sudden death']",C0085298,0,
+252,2505,sudden death,['sudden death'],C0011071,0,
+253,5920,meningism,"['meningismus', 'meningeal irritation', 'meningism']",C0025287,0,Neuro
